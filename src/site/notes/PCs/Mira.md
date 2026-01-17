@@ -13,7 +13,7 @@ Mira is 5'11".
 
 LOVES sweets. Sour things are tasty too.
 # Relationships
-[[PCs/Gingersnap\|Granny]] is nice (scary when angry tho). Mira visits from time to time but does not want to impose on her or inconvenience her or Yonder. 
+[[PCs/Gingersnap\|Granny]] is nice (scary when angry tho). Mira visits from time to time but does not want to impose herself on her or inconvenience her or Yonder. 
 [[PCs/Zimrial\|Zims]] is a frien. She sings nice and keeps folks at pub distracted!
 [[PCs/Yonder\|Yonder]] is kinda scary but funny at the same time. DO NOT GET ON HIS BAD SIDE!
 [[PCs/Nino\|Nino]]... Mira is not sure what to make of him...
