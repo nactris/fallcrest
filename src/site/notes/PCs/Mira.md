@@ -3,8 +3,8 @@
 ---
 
 
-Scruffy looking elven kid, around 21. Cheeky, smug and overly self confident. 
-Captivated by everthing glittery
+Scruffy looking elven kid, around 21. Cheeky, smug and overly self-confident. 
+Captivated by everything glittery.
 Friends with [[PCs/Zimrial\|Zimzim]].
 Gotta eat to live, gotta steal to eat.
 
