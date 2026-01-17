@@ -15,4 +15,7 @@ They have a animal fur coat. (some predator) does not really get cold but wears 
 
 PRIMAL VIOLENCE!!!!!!!!!! 
 
+# Relationships
+Tbd
+# Image
 ![Yonder.png](/img/user/Media/Yonder.png)

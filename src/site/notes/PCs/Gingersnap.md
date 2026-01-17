@@ -10,6 +10,8 @@ Talks to dead people. ☠
 Knows [[PCs/Mira\|Mira]].
 
 As she casts spells she gets "older" and weaker. Looks like she is draining herself.
-
-
+# Relationships
+Tbd
+# Image
 ![Gingersnap.png](/img/user/Media/Gingersnap.png)
+

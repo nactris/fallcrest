@@ -15,4 +15,7 @@ If it has a pulse she will flirt with it. If it doesn't she may try.
 
 Now afraid of bears!
 
+# Relationships
+Tbd
+# Image
 ![Zimrial.png](/img/user/Media/Zimrial.png)
