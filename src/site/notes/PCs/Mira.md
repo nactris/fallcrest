@@ -12,6 +12,10 @@ Can speak dwarven at around B1.
 Mira is 5'11".
 
 LOVES sweets. Sour things are tasty too.
-
-
+# Relationships
+[[PCs/Gingersnap\|Granny]] is nice (scary when angry tho). 
+[[Zimrial \|Zims]] is a frien. She sings nice and keeps folks at pub distracted!
+[[PCs/Yonder\|Yonder]] is kinda scary but funny at the same time. DO NOT GET ON HIS BAD SIDE!
+[[PCs/Nino\|Nino]]... Mira is not sure what to make of him...
+# Image
 ![Mira.png](/img/user/Media/Mira.png)
