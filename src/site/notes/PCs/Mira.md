@@ -7,11 +7,10 @@ Scruffy looking elven kid, around 21. Cheeky, smug and overly self-confident.
 Captivated by everything glittery.
 Friends with [[PCs/Zimrial\|Zimzim]].
 Gotta eat to live, gotta steal to eat.
-
 Can speak dwarven at around B1.
 Mira is 5'11".
-
-LOVES sweets. Sour things are tasty too.
+At some point she fell out of reality.
+LOVES sweets. Sour and salty things are tasty too, but sweet is the way to go.
 # Relationships
 [[PCs/Gingersnap\|Granny]] is nice (scary when angry tho). Mira visits from time to time but does not want to impose herself on her or inconvenience her or Yonder. 
 [[PCs/Zimrial\|Zims]] is a frien. She sings nice and keeps folks at pub distracted!
