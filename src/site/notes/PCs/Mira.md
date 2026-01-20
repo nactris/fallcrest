@@ -6,10 +6,12 @@
 Scruffy looking elven kid, around 21. Cheeky, smug and overly self-confident. 
 Captivated by everything glittery.
 Gotta eat to live, gotta steal to eat.
-Can speak dwarven at around B1.
 Mira is 5'11".
+# Trivia
 At some point she fell out of reality.
 LOVES sweets. Sour and salty things are tasty too, but sweet is the way to go.
+Can speak dwarven at around B1.
+Mira uses a pair of daggers made from [[Curiosities/Mira's Daggers\|repurposed scissors]]. The daggers can be put together to serve as scissors .
 # Relationships
 [[PCs/Gingersnap\|Granny]] is nice (scary when angry tho). Mira visits from time to time but does not want to impose herself on her or inconvenience her or Yonder. 
 [[PCs/Zimrial\|Zims]] is a frien. She sings nice and keeps folks at pub distracted!
