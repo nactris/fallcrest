@@ -70,13 +70,12 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 ### Talents 
-******
 > [!NOTE] Subdimensional Dive
 > *You gain the subdimensional dive at-will power*
 > As a quick action before you have used a standard action
 > this turn, you can make the following shadow walk attack
 > against the enemy with the highest Mental Defense.
-> ---
+> 
 > **Subdimensional Dive**
 > Close-quarters attack ◆ **At-Will if used while not engaged;**
 > **expended until end of battle if used while engaged** ◆
@@ -101,7 +100,6 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > **Miss:** No effect. You can’t attempt to shadow walk again until
 > your next turn, but you still have your standard action this
 > turn, and possibly your move action.
-
 
 
 
