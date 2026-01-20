@@ -70,7 +70,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 ### Talents 
-
+******
 > [!NOTE] Subdimensional Dive
 > *You gain the subdimensional dive at-will power*
 > As a quick action before you have used a standard action
@@ -78,7 +78,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > against the enemy with the highest Mental Defense.
 > ---
 > **Subdimensional Dive**
-> **Close-quarters attack** ◆ **At-Will if used while not engaged;**
+> Close-quarters attack ◆ **At-Will if used while not engaged;**
 > **expended until end of battle if used while engaged** ◆
 > Quick action
 > **Target:** Nearby enemy with the highest MD
