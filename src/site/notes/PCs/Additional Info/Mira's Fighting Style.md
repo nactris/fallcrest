@@ -5,10 +5,12 @@
 
 Mira fights using repurposed pair of scissors picked apart to serve as daggers. Mira had some text in Elvish etched onto the surface of the blades.
 
+Mira's fighting style heavily relies on her ability to phase into the subspace. She will usually use ambush tactics, jumping at the right moment to strike and vanishing as fast as she appeared. 
+# Art
+
 ![Scissors.png](/img/user/Media/Scissors.png)
 
 # Cool Battle Moves
-### Base
 
 > [!NOTE] Rush Attack
 > Once on each of your turns, your rogue melee weapon attack
@@ -42,6 +44,30 @@ Mira fights using repurposed pair of scissors picked apart to serve as daggers. 
 | 10th | +40 damage        |
 | 11th |  +50 damage       |
 | 12th | +60 damage        |
+
+> [!NOTE] Scissor Strike
+> Melee attack ◆ **At-Will**
+> **Target:** One enemy
+> **Attack:** Dexterity + Level vs. AC
+> **Hit:** d8 + Dexterity damage
+> 5th–7th level: Weapon + (Dex mod × 2)
+> 8th level: Weapon + (Dex mod × 4) + 5
+> 9th level: Weapon + (Dex mod × 4) + 10
+> 10th level: Weapon + (Dex mod × 4) +15
+> **Miss:** Damage equal to your level
+
+> [!NOTE] Scissor Throw
+> Ranged attack ◆ **At-Will**
+> **Target:** One nearby or far-away enemy, depending on the
+> weapon’s range
+> **Attack:** Dexterity + Level vs. AC
+> **Hit:** Weapon + Dexterity damage
+> 5th–7th level: Weapon + (Dex mod × 2)
+> 8th level: Weapon + (Dex mod × 4) + 5
+> 9th level: Weapon + (Dex mod × 4) + 10
+> 10th level: Weapon + (Dex mod × 4) +15
+> **Miss:** Damage equal to your level.
+
 
 ### Talents 
 
@@ -99,7 +125,7 @@ Mira fights using repurposed pair of scissors picked apart to serve as daggers. 
 ### Powers (1st level)
 
 > [!NOTE] Non-Euclidean Stab
-> *Same as basic ranged attack except:*
+> *Same as basic ranged attack except...*
 > **Special**: You must use a small, bladed weapon or a hand
 > crossbow with this attack. (For you, those are both d6
 > weapons when used for a ranged attack.) If you spend a point
@@ -133,7 +159,7 @@ Mira fights using repurposed pair of scissors picked apart to serve as daggers. 
 
 
 > [!NOTE] ??? (don't remember name)
-> *Same as rogue basic melee attack except . . .*
+> *Same as rogue basic melee attack except...*
 > **Hit:** Same basic attack damage, and you can pop free from the
 target.
 
