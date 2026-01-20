@@ -4,7 +4,7 @@
 
 
 #PC
-Lives with [[PCs/Gingersnap\|Gingersnap]] on a [[Places/Yonder's and Gingersnap's Farm\|farm]], it was originally Yonder's.
+Lives with [[PCs/Gingersnap\|Gingersnap]] on a [[Places/Yondersnap Homestead\|farm]], it was originally Yonder's.
 Likes animal and also rats (probably).
 
 Mossy looking robot with plant growth over them.
