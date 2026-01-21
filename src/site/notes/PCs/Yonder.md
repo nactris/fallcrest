@@ -8,6 +8,7 @@ Lives with [[PCs/Gingersnap Myra\|Gingersnap]] on a [[Places/Yondersnap Homestea
 Likes animal and also rats (probably).
 Can speak to animals.
 Likes giving scritches to animals!
+Previously a dwarven battle robot, jailbroken.
 
 Mossy looking robot with plant growth over them.
 They have a animal fur coat. (some predator) does not really get cold but wears the coat to appease [[PCs/Gingersnap Myra\|Ginger]]. Yonder is very big and bulky. They have horns and claws. Serious looking face. Kind of looks like a beetle.
