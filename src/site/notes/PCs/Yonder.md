@@ -15,6 +15,10 @@ Yonder can transform into a bear, or different animals depending on mood and sit
 $$
 PRIMAL \space\space VIOLENCE\space!!!!!!!!!! 
 $$
+
+They have a dwarven overwritten marks seared into his insides - those are visible only when yonder transforms. (Those are old. )
+
+*"My story is not interesting"* - says the robot druid shapeshifting into animals.
 # Relationships
 Tbd
 # Image

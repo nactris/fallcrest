@@ -11,7 +11,7 @@ Knows [[PCs/Mira\|Mira]].
 
 As she casts spells she gets "older" and weaker. Looks like she is draining herself.
 # Relationships
-Tbd
+Cares a lot about [[PCs/Nino\|Nino]], treats him kinda like son. (He is dead thou)
 # Image
 ![Gingersnap.png](/img/user/Media/Gingersnap.png)
 

@@ -14,4 +14,4 @@ Smacks people with a newspaper edition announcing his death. (XD)
 # Relationships
 Tbd
 # Image
-![Nino.png](/img/user/PCs/Nino.png)
+![Nino.png](/img/user/Media/Nino.png)
