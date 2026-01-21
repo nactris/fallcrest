@@ -3,6 +3,6 @@
 ---
 
 
-Looking for adventurers, brough [[PCs/Nino\|Nino's]] and [[Characters/Gaius\|Gaias']] corpses.
+Looking for adventurers, brough [[PCs/Nino Markelhay\|Nino's]] and [[Characters/Gaius\|Gaias']] corpses.
 War veteran.
 Serves [[Characters/Lord Warden Aurelio Markelhay\|Lord Warden Aurelio Markelhay]].
