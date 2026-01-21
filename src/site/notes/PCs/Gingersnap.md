@@ -10,8 +10,11 @@ Talks to dead people. ☠
 Knows [[PCs/Mira\|Mira]].
 
 As she casts spells she gets "older" and weaker. Looks like she is draining herself.
+Has a book filled to a brim 
 # Relationships
 Cares a lot about [[PCs/Nino\|Nino]], treats him kinda like son. (He is dead thou)
+So far treats [[PCs/Mira\|Mira]] like a baby, instinctively takes care of her, wipes her mouth and such.
+*For yonder and zims, requires investigation*
 # Image
 ![Gingersnap.png](/img/user/Media/Gingersnap.png)
 
