@@ -5,7 +5,7 @@
 #PC
 4 feet tall old dwarven lady. Has a undead friend [[PCs/Nino\|Nino]]. 
 Gets cold easily wears warm clothes, has very long hair, organized uniform, comfortable and braided. Constantly smells like ginger.
-
+Lives together with [[PCs/Yonder\|Yonder]] on a [[Places/Yondersnap Homestead\|farm]].
 Talks to dead people. ☠
 Knows [[PCs/Mira\|Mira]].
 
