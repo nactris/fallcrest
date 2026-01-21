@@ -16,7 +16,7 @@ Somehow she "attracts" bone pieces from Nino, kinda in a supernatural way - ever
 As she looks closely, her ears perk up (kinda like bunny, cute)
 # Relationships
 [[PCs/Gingersnap Myra\|Granny]] is nice (scary when angry tho). Mira visits from time to time but does not want to impose herself on her or inconvenience her or Yonder. 
-[[PCs/Zimrial\|Zims]] is a frien. She sings nice and keeps folks at pub distracted!
+[[PCs/Zimrial\|Zims]] is a frien. She sings nice and keeps folks at pub distracted! A partner in crime?
 [[PCs/Yonder\|Yonder]] is kinda scary but funny at the same time. DO NOT GET ON HIS BAD SIDE!
 [[PCs/Nino Markelhay\|Nino]]... Mira is not sure what to make of him... Mira is curious about him but also kinda creeped out. More curious tho, getting used to him as she finds more pieces of him in her hair.
 # Image
