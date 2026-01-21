@@ -173,7 +173,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 
-> [!NOTE] Displacing Slash
+> [!NOTE] Displacement Slash
 > *Same as rogue basic melee attack except...*
 > **Hit:** Same basic attack damage, and you can pop free from the
 target.
