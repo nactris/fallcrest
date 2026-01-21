@@ -44,6 +44,23 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 | 10th | +40 damage        |
 | 11th |  +50 damage       |
 | 12th | +60 damage        |
+> [!NOTE] Skulduggery
+> Depending on your character’s backstory, you might instead
+> phrase this feature as something related to Thievery.
+> Even if you don’t take backgrounds that represent a history
+> as a thief, cat burglar, spy, or espionage agent, you have a flair for
+> this type of thing and a healthy dose of luck.
+> At adventurer-tier, you have two uses of Skulduggery per arc;
+> this increases to three uses at 5th level and four uses at 8th level.
+> For one use of Skulduggery, a rogue can reroll a failed skill
+> roll involving thievery, spotting or disarming traps, criminal
+> contacts, espionage tricks, and so on. The list of possible
+> applications is broader than the similar class features of the
+> bard and ranger, so Skulduggery has fewer uses.
+> For an additional use of Skulduggery, decided before making
+> the roll, the rogue narrates how something they know or set up
+> before these events is now supplying a +3 bonus to the skill reroll.
+
 
 > [!NOTE] Scissor Strike
 > Melee attack ◆ **At-Will**
@@ -156,7 +173,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 
-> [!NOTE] ??? (don't remember name)
+> [!NOTE] Displacing Slash
 > *Same as rogue basic melee attack except...*
 > **Hit:** Same basic attack damage, and you can pop free from the
 target.
