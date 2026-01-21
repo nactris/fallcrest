@@ -10,3 +10,6 @@
 *"My story is not interesting"* -says the [[PCs/Yonder\|robot druid shapeshifting into animals.]]
 
 ---
+"Gingertrauma is fun!!" - [[PCs/Gingersnap Myra\|gingersnap's]] player
+
+---
