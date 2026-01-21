@@ -13,3 +13,6 @@
 "Gingertrauma is fun!!" - [[PCs/Gingersnap Myra\|gingersnap's]] player
 
 ---
+"it should do it automagically" - gm
+
+---

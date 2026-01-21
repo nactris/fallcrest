@@ -18,7 +18,7 @@ $$
 PRIMAL \space\space VIOLENCE\space!!!!!!!!!! 
 $$
 
-They have a dwarven overwritten marks seared into his insides - those are visible only when yonder transforms. (Those are old. )
+They have a dwarven overwritten marks seared into his insides - those are visible only when yonder transforms. (Those are old. Diablist had hand in jailbreaking)
 
 # Relationships
 *not much known*

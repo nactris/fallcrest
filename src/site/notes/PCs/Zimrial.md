@@ -16,7 +16,8 @@ If it has a pulse she will flirt with it. If it doesn't she may try.
 Now afraid of bears! (Yonder is the creepiest party member now!)
 Forest that are not elven cities creep em out, they feel kinda like ruins to her. (elven stuff ig)
 Personally met with a [[Characters/Elf Queen\|Elf Queen]] at least once. Since then from time to time she can use the foliage-piercing sight like Elf Queen.
-She got magical shoes from dead kobold ( not her first time getting shoes from corpses )
+She got magical shoes from dead kobold (not her first time getting shoes from corpses)
+Has a ring marking similar to what yonder has inside.
 # Relationships
 [[PCs/Yonder\|Yonder]] is the creepiest guy in a friend group, and [[PCs/Nino Markelhay\|Nino]] is the second creepiest.
 *not much more is known*
