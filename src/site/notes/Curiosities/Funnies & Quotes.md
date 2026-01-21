@@ -3,7 +3,7 @@
 ---
 
 *Mira scruffles hair lotsa random stuff falls out* 
-"Mira honey? I-is is that a bug? You could have taken a shower back home..." - [[PCs/Gingersnap Myra\|Gingersnap Myra]]
+"Mira honey? I-is is that a bug? You could have taken a shower back home..." - [[PCs/Gingersnap Myra\|Ginger]]
 *Mira collects the stuff that fallen out (including a bug), and places into the bag*
 
 ---
