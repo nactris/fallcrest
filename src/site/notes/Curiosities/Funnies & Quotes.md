@@ -7,7 +7,7 @@
 *Mira collects the stuff that fallen out (including a bug), and places into the bag*
 
 ---
-*"My story is not interesting"* - the [[PCs/Yonder\|robot druid shapeshifting into animals.]]
+"My story is not interesting" - the [[PCs/Yonder\|robot druid shapeshifting into animals.]]
 
 ---
 "Gingertrauma is fun!!" - [[PCs/Gingersnap Myra\|gingersnap's]] player
