@@ -3,7 +3,7 @@
 ---
 
 
-Mira fights using repurposed pair of scissors picked apart to serve as daggers. Mira had some text in Elvish etched onto the surface of the blades.
+Mira fights using repurposed pair of scissors picked apart to serve as daggers. Mira had some runes etched onto the surface of the blades.
 
 Mira's fighting style heavily relies on her ability to phase into the subspace. She will usually use ambush tactics, jumping at the right moment to strike and vanishing as fast as she appeared. 
 # Art
