@@ -12,13 +12,13 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 # Cool Battle Moves
 
-> [!NOTE] Rush Attack
+> [!note] Rush Attack
 > Once on each of your turns, your rogue melee weapon attack
 > deals an additional +1d6 damage against an enemy you were not
 > engaged with at the start of your turn if you hit. Decide whether
 > you are using Rush Attack before rolling an eligible attack.
 
-> [!NOTE] Bravado
+> [!note] Bravado
 > There’s no limit to how many points of Bravado you can have,
 > but your Bravado resets to 0 when you take a quick rest or a full
 > heal-up.
@@ -44,7 +44,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 | 10th | +40 damage        |
 | 11th |  +50 damage       |
 | 12th | +60 damage        |
-> [!NOTE] Skulduggery
+> [!note] Skulduggery
 > Depending on your character’s backstory, you might instead
 > phrase this feature as something related to Thievery.
 > Even if you don’t take backgrounds that represent a history
@@ -62,7 +62,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > before these events is now supplying a +3 bonus to the skill reroll.
 
 
-> [!NOTE] Scissor Strike
+> [!note] Scissor Strike
 > Melee attack ◆ **At-Will**
 > **Target:** One enemy
 > **Attack:** Dexterity + Level vs. AC
@@ -73,7 +73,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > 10th level: Weapon + (Dex mod × 4) +15
 > **Miss:** Damage equal to your level
 
-> [!NOTE] Scissor Throw
+> [!note] Scissor Throw
 > Ranged attack ◆ **At-Will**
 > **Target:** One nearby or far-away enemy, depending on the
 > weapon’s range
@@ -87,7 +87,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 ### Talents 
-> [!NOTE] Rift Diving
+> [!tip] Rift Diving
 > *You gain the rift diving at-will power*
 > As a quick action before you have used a standard action
 > this turn, you can make the following shadow walk attack
@@ -120,13 +120,13 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 
-> [!NOTE] Like Salt to the Wounds.
+> [!tip] Like Salt to the Wounds.
 > Your crit range against staggered enemies expands by 2
 
 
 
 
-> [!NOTE] Glitchy Movements
+> [!tip] Glitchy Movements
 > You gain a +3 bonus to disengage checks. In addition, while you
 > are moving, if an enemy moves to intercept you, you can make a
 > disengage check as a free action to avoid that enemy. (Since you
@@ -139,7 +139,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 ### Powers (1st level)
 
-> [!NOTE] Non-Euclidean Stab
+> [!error] Non-Euclidean Stab
 > *Same as basic ranged attack except...*
 > **Special**: You must use a small, bladed weapon or a hand
 > crossbow with this attack. (For you, those are both d6
@@ -151,7 +151,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 
-> [!NOTE] Dance of Fractals 
+> [!error] Dance of Fractals 
 > Melee attack ◆ **At-Will, but costs 1 Bravado**
 > **Special:** Hitting with this attack doesn’t give you Bravado
 > **First Target:** One engaged enemy
@@ -173,7 +173,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 
-> [!NOTE] Displacement Slash
+> [!error] Snapback Slash
 > *Same as rogue basic melee attack except...*
 > **Hit:** Same basic attack damage, and you can pop free from the
 target.
@@ -181,7 +181,7 @@ target.
 
 ### Feats
 
-> [!NOTE] Rogue of Two-Weapons (Adventurer-tier)
+> [!done] Rogue of Two-Weapons (Adventurer-tier)
 You can now wield two melee weapons and get the two-weapon
 fighting advantage described on page 314: hitting with your
 melee attacks on a natural 2.
