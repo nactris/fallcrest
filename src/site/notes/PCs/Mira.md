@@ -14,6 +14,8 @@ Can speak dwarven at around B1.
 Mira uses a pair of daggers made from [[PCs/Additional Info/Mira's Fighting Style\|repurposed scissors]]. The daggers can be put together to serve as scissors.
 Somehow she "attracts" bone pieces from Nino, kinda in a supernatural way - every fight some pieces are in her hair and clothes. Also those are additional copies from time to time.
 As she looks closely, her ears perk up (kinda like bunny, cute)
+From time to time she gets a supernatural "guidance" or "hint" on how to achieve a goal.
+Other times she just acts on impulse, its about 50-50. So the team has to trust its the hint this time...
 # Relationships
 [[PCs/Gingersnap Myra\|Granny]] is nice (scary when angry tho). Mira visits from time to time but does not want to impose herself on her or inconvenience her or Yonder. 
 [[PCs/Zimrial\|Zims]] is a frien. She sings nice and keeps folks at pub distracted! A partner in crime?

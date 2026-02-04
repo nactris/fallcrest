@@ -10,7 +10,12 @@ Talks to dead people. ☠
 Knows [[PCs/Mira\|Mira]].
 
 As she casts spells she gets "older" and weaker. Looks like she is draining herself.
-Has a book filled to a brim 
+
+Her power is definitely NOT connected to Diabolist.
+Her healing feels like warm wind in autumn and the smell of spices.
+
+She can apparently summon a horde of undead. Kind of terrifying to look at. 
+They are very nice though! Dancers, servants normal people, one was kind enough to heal Zimmy.
 # Relationships
 Cares a lot about [[PCs/Nino Markelhay\|Nino Markelhay]], treats him kinda like son. (He is dead thou)
 So far treats [[PCs/Mira\|Mira]] like a baby, instinctively takes care of her, wipes her mouth and such.
