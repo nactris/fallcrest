@@ -22,6 +22,8 @@ Has a ring marking similar to what yonder has inside.
 She wants a grand piano, she will get a grand piano.
 She can cut someone open. Literally, one kobold bled to death. SHE WILL GET THE PIANO.
 PIANO IS ON FIRE T_T. 
+
+She got a cursed scimitar from a [[Creepy Stoned Warrior Imp Killer - Name started with L\|creepy guy]].  Got cursed. Willingly. This is intelligent weapon called [[PCs/Additional Info/Bloodtithe\|Bloodtithe]].
 # Relationships
 [[PCs/Yonder\|Yonder]] is the creepiest guy in a friend group, and [[PCs/Nino Markelhay\|Nino]] is the second creepiest.
 *not much more is known*

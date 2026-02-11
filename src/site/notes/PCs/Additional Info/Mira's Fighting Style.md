@@ -120,7 +120,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 
-> [!tip]- Like Salt to the Wounds.
+> [!tip]- Impatient
 > Your crit range against staggered enemies expands by 2
 
 
@@ -181,11 +181,19 @@ target.
 
 ### Feats
 
-> [!done]- Rogue of Two-Weapons (Adventurer-tier)
+> [!done]- Scisors are a Pair (Adventurer-tier)
 You can now wield two melee weapons and get the two-weapon
 fighting advantage described on page 314: hitting with your
 melee attacks on a natural 2.
 > Contents
 
 
+## Items
 
+
+> [!NOTE] Silver Slippers
+> (1/battle for each): 
+> - When you pop free or disengage from a mook, one mook that you were engaged with takes damage equal to twice your level.
+> - When you take miss damage from an enemy’s attack, you can pop free from that enemy.
+>   
+> **Quirk**: Giggles unnervingly.
