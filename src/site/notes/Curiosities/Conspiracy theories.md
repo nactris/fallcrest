@@ -7,3 +7,4 @@
 Symbols saved his life, clear connection to diabolist.
 
 [[PCs/Gingersnap Myra\|Ginger]] wakes up dead with compassion, as opposed to lich using dominance. Source of power? Lich is probably not very content someone is stepping on his trademark.
+
