@@ -8,4 +8,4 @@
 - [[PCs/Yonder\|Yonder]] - warforged druid
 
 [[Curiosities/Height Chart\|Height]] comparison!
-Some funny [[Curiosities/Funnies & Quotes\|quotes]] and [[Curiosities/Conspiracy theories\|Conspiracy theories]]!
+Some funny [[Curiosities/Funnies & Quotes\|quotes]], [[Curiosities/Conspiracy theories\|conspiracy theories]] and [[Curiosities/Random Trivia\|random trivia]]!
