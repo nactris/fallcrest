@@ -5,7 +5,7 @@
 
 Big Shot!?
 
-Has a private quest for us
+Has a private quest for us.
 
 Stressed and tired lately.
 Wants to make a memorial. Had a piece of red dragon hide stolen by [[Characters/Kobolds\|Kobolds]] who are hiding in the [[Places/Cloakwood\|abandoned mansion in the Cloakwood]].
