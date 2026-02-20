@@ -9,5 +9,7 @@ Felt kind of smug.
 
 Apparently part of Gray Legion. (Info from [[Characters/Secret Agent Homeless Drunkard\|SAHD]])
 Grey Legion agents have this nasty habit of not staying dead. Apparently also memory problems. Kinda like restart? 
+
+Btw he was seen again. Not dead.
 ## Image
 ![Creepy Stoned Knight Imp Killer.png](/img/user/Media/Creepy%20Stoned%20Knight%20Imp%20Killer.png)
