@@ -20,7 +20,7 @@ Has a ring marking similar to what yonder has inside.
 
 She wants a grand piano, she will get a grand piano.
 She can cut someone open. Literally, one kobold bled to death. SHE WILL GET THE PIANO.
-PIANO IS ON FIRE T_T. 
+PIANO IS ON FIRE T_T.  she can't get it now....
 
 She got a cursed scimitar from a [[Characters/Creepy Stoned Knight Imp Killer - Lucian... something\|creepy guy]].  Got cursed. Willingly. This is intelligent weapon called [[PCs/Additional Info/Bloodtithe\|Bloodtithe]].
 
