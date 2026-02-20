@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/p-cs/yonder/"}
 ---
 
-
 #PC
 Lives with [[PCs/Gingersnap Myra\|Gingersnap]] on a [[Places/Yondersnap Homestead\|farm]], it was originally Yonder's.
 Likes animal and also rats (probably).

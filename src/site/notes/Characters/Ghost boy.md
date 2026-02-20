@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/ghost-boy/"}
 ---
 
-
+#npc
 No parents?
 Was always on the farm 
 [[PCs/Nino Markelhay\|Nino's]] friend? Nino considers him such.

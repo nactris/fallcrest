@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/lord-warden-aurelio-markelhay/"}
 ---
 
-
+#npc
 Big Shot!?
 
 Has a private quest for us.

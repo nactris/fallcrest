@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/p-cs/mira/"}
 ---
 
-
+#PC
 Scruffy looking elven kid, around 21. Cheeky, smug and overly self-confident. 
 Captivated by everything glittery.
 Gotta eat to live, gotta steal to eat.

@@ -16,3 +16,6 @@
 "it should do it automagically" - gm
 
 ---
+"You might be mortally grey enough for me to help you" - Ginger
+
+---

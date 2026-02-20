@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/sergant-murgeddin/"}
 ---
 
+#npc 
 Sergmagedon.
 Looking for adventurers, brought [[PCs/Nino Markelhay\|Nino's]] and [[Characters/Gaius\|Gaias']] corpses.
 War veteran.
