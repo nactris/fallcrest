@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/p-cs/zimrial/"}
 ---
 
-
 #PC 
 Can perform - plays instruments a bit.
 Can dance and sing well, better than she plays.
@@ -24,6 +23,10 @@ She can cut someone open. Literally, one kobold bled to death. SHE WILL GET THE 
 PIANO IS ON FIRE T_T. 
 
 She got a cursed scimitar from a [[Characters/Creepy Stoned Knight Imp Killer - Lucian... something\|creepy guy]].  Got cursed. Willingly. This is intelligent weapon called [[PCs/Additional Info/Bloodtithe\|Bloodtithe]].
+
+Soft spot for kids, she is keeping the orphanage from time to time. She was teaching kids music. Helping [[Characters/High Priest Ressilmae Starlight\|Ressilmae]] with kids in general.
+
+Knows traditional elven dances.
 # Relationships
 [[PCs/Yonder\|Yonder]] is the creepiest guy in a friend group, and [[PCs/Nino Markelhay\|Nino]] is the second creepiest.
 *not much more is known*
