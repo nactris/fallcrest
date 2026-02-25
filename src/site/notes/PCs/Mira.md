@@ -18,6 +18,7 @@ From time to time she gets a supernatural "guidance" or "hint" on how to achieve
 Other times she just acts on impulse, its about 50-50. So the team has to trust its the hint this time...
 
 Mira made and decorated a [[Places/Mira's Treehouse\|treehouse]], now she basically lives there.
+She likes to be cozy. (sleeps on 5 of her favorite blankets back home)
 # Relationships
 [[PCs/Gingersnap Myra\|Granny]] is nice (scary when angry tho). Mira visits from time to time but does not want to impose herself on her or inconvenience her or Yonder. 
 [[PCs/Zimrial\|Zims]] is a frien. She sings nice and keeps folks at pub distracted! A partner in crime?

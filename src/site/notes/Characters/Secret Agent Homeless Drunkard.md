@@ -12,7 +12,7 @@ He is Zim's informer, her connection to [[Characters/Elf Queen\|Elf Queen]].  No
 He intercepted Zim's rapport in [[Concord\|Concord]].
 A jokester. 
 
-DEAD. He died from the magic ring. after saying Diab... dead.
+DEAD. He died from the magic ring. after saying Diab...
 # Image
 
  ![SAHD.png](/img/user/Media/SAHD.png)
