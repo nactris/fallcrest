@@ -8,7 +8,7 @@ Symbols saved his life, clear connection to diabolist.
 
 [[PCs/Gingersnap Myra\|Ginger]] wakes up dead with compassion, as opposed to lich using dominance. Source of power? Lich is probably not very content someone is stepping on his trademark.
 
-[[Characters/Creepy Stoned Knight Imp Killer - Lucian... something\|Creepy Stoned Knight Imp Killer - Lucian... something]] was doing something with kobolds. Probably told them about the ritual. Probably told them about dragon hide. 
+[[Characters/Lucian Grimhollow\|Lucian Grimhollow]] was doing something with kobolds. Probably told them about the ritual. Probably told them about dragon hide. 
 
 [[PCs/Zimrial\|Zim]] is a secret agent. Who the hell is Thamson? Thomson? He dissapeared btw. 
 Zim has a magical ring that makes you explode after you mention diabolist.

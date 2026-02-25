@@ -9,4 +9,4 @@ They are performing some kind of ritual using red dragons hide.
 They hate if you insult their fake-wings and mock the fact that they are not dragons.
 
 Did some kind of ritual that partially transformed one of them into a dragon partially. 
-He died shortly after the ritual. Probably taught the ritual by [[Characters/Creepy Stoned Knight Imp Killer - Lucian... something\|a creep]].
+He died shortly after the ritual. Probably taught the ritual by [[Characters/Lucian Grimhollow\|a creep]].

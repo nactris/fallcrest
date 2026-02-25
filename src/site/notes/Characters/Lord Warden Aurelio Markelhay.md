@@ -11,4 +11,4 @@ Stressed cuz the lady of the house got ill.
 
 Made us a party!
 Friends with [[Characters/Barton\|Barton]]. Recommended the beef stew.
-Found out that [[Characters/Creepy Stoned Knight Imp Killer - Lucian... something\|CSKIK]] is most likely not dead. Sent us to Hammerfast. 
+Found out that [[Characters/Lucian Grimhollow\|Lucian Grimhollow]] is most likely not dead. Sent us to Hammerfast. 

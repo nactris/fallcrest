@@ -22,7 +22,7 @@ She wants a grand piano, she will get a grand piano.
 She can cut someone open. Literally, one kobold bled to death. SHE WILL GET THE PIANO.
 PIANO IS ON FIRE T_T.  she can't get it now....
 
-She got a cursed scimitar from a [[Characters/Creepy Stoned Knight Imp Killer - Lucian... something\|creepy guy]].  Got cursed. Willingly. This is intelligent weapon called [[PCs/Additional Info/Bloodtithe\|Bloodtithe]].
+She got a cursed scimitar from a [[Characters/Lucian Grimhollow\|creepy guy]].  Got cursed. Willingly. This is intelligent weapon called [[PCs/Additional Info/Bloodtithe\|Bloodtithe]].
 
 Soft spot for kids, she is keeping the orphanage from time to time. She was teaching kids music. Helping [[Characters/High Priest Ressilmae Starlight\|Ressilmae]] with kids in general.
 
