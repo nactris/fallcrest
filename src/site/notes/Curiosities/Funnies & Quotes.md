@@ -19,3 +19,14 @@
 "You might be mortally grey enough for me to help you" - Ginger
 
 ---
+"Is your friend a wizard?" - [[Characters/Bluehat15\|Bluehat15]]
+"No, she is a dwarf" - [[PCs/Yonder\|Yonder]]
+
+---
+"Quick ask me a question!" - [[Characters/Bluehat15\|Bluehat15]]
+"no" - [[PCs/Yonder\|Yonder]]
+
+---
+"There are many more enjoyments in this life. I must introduce you - have you ever seen a chicken?" - [[PCs/Yonder\|Yonder]]
+
+---

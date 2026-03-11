@@ -19,10 +19,13 @@ Other times she just acts on impulse, its about 50-50. So the team has to trust 
 
 Mira made and decorated a [[Places/Mira's Treehouse\|treehouse]], now she basically lives there.
 She likes to be cozy. (sleeps on 5 of her favorite blankets back home)
+
+Mira has enormous appetite and is a fast eater. You can throw as much food as you want at her, and she will likely make it vanish. (Ate a whole ass cauldron )
 # Relationships
 [[PCs/Gingersnap Myra\|Granny]] is nice (scary when angry tho). Mira visits from time to time but does not want to impose herself on her or inconvenience her or Yonder. 
 [[PCs/Zimrial\|Zims]] is a frien. She sings nice and keeps folks at pub distracted! A partner in crime?
 [[PCs/Yonder\|Yonder]] is kinda scary but funny at the same time. DO NOT GET ON HIS BAD SIDE!
 [[PCs/Nino Markelhay\|Nino]]... Mira is not sure what to make of him... Mira is curious about him but also kinda creeped out. More curious tho, getting used to him as she finds more pieces of him in her hair.
+Has old "friend" [[Characters/Basten\|Basten]]. She does not like him that much, she treats him more like necessary evil. He got caught by the [[Elven noble\|Elven noble]] Mira stole from.
 # Image
 ![Mira.png](/img/user/Media/Mira.png)

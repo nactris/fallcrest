@@ -16,7 +16,7 @@ Now afraid of bears! (Yonder is the creepiest party member now!)
 Forest that are not elven cities creep em out, they feel kinda like ruins to her. (elven stuff ig)
 Personally met with a [[Characters/Elf Queen\|Elf Queen]] at least once. Since then from time to time she can use the foliage-piercing sight like Elf Queen.
 She got magical shoes from dead kobold (not her first time getting shoes from corpses)
-Has a ring marking similar to what yonder has inside.
+Has a ring marking similar to what yonder has inside. The ring *sometimes* blows peoples heads off.
 
 She wants a grand piano, she will get a grand piano.
 She can cut someone open. Literally, one kobold bled to death. SHE WILL GET THE PIANO.
@@ -27,6 +27,11 @@ She got a cursed scimitar from a [[Characters/Lucian Grimhollow\|creepy guy]].  
 Soft spot for kids, she is keeping the orphanage from time to time. She was teaching kids music. Helping [[Characters/High Priest Ressilmae Starlight\|Ressilmae]] with kids in general.
 
 Knows traditional elven dances.
+Does not eat meat (fish is fair game).
+
+Zim is popular! 
+She was recognized by [[Characters/Regiful Handsome\|Regiful Handsome]].
+
 # Relationships
 [[PCs/Yonder\|Yonder]] is the creepiest guy in a friend group, and [[PCs/Nino Markelhay\|Nino]] is the second creepiest.
 *not much more is known*

@@ -9,6 +9,7 @@ Smacks people with a newspaper edition announcing his death. (XD)
 
 5'7'' in height.
 Has a [[Characters/Ghost boy\|ghost friend]] bluish hue, blond hair, young.
+Uses fake name "Guy" when needed.
 # Relationships
 Tbd
 # Image
