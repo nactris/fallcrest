@@ -19,8 +19,7 @@ They are very nice though! Dancers, servants normal people, one was kind enough 
 
 Uses fake name "Cookie Byron" when needed.
 
-Devil won bid of to torment her husbands soul.
-Marcellis? Marcellus (forgot name).
+Devil won bid of to torment Marsalis Markelhay, Ginger's husband.
 Hell has nonviolence [[Curiosities/Devilish Contract\|contract]] against Ginger. (they cannot attack her)
 Extremely heavyweight drinker. Her "cup" is basically a small barrel.
 
