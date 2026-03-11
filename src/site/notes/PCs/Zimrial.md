@@ -32,6 +32,7 @@ Does not eat meat (fish is fair game).
 Zim is popular! 
 She was recognized by [[Characters/Regiful Handsome\|Regiful Handsome]].
 
+Zimmy is well defined (not buff per se).
 # Relationships
 [[PCs/Yonder\|Yonder]] is the creepiest guy in a friend group, and [[PCs/Nino Markelhay\|Nino]] is the second creepiest.
 *not much more is known*

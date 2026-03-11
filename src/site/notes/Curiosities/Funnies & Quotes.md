@@ -24,7 +24,7 @@
 
 ---
 "Quick ask me a question!" - [[Characters/Bluehat15\|Bluehat15]]
-"no" - [[PCs/Yonder\|Yonder]]
+"no." - [[PCs/Yonder\|Yonder]]
 
 ---
 "There are many more enjoyments in this life. I must introduce you - have you ever seen a chicken?" - [[PCs/Yonder\|Yonder]]
