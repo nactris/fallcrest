@@ -23,6 +23,8 @@ Devil won bid of to torment her husbands soul.
 Marcellis? Marcellus (forgot name).
 Hell has nonviolence [[Curiosities/Devilish Contract\|contract]] against Ginger. (they cannot attack her)
 Extremely heavyweight drinker. Her "cup" is basically a small barrel.
+
+She has an adorable pink knitted hood.
 # Relationships
 Cares a lot about [[PCs/Nino Markelhay\|Nino Markelhay]], treats him kinda like son. (He is dead thou)
 So far treats [[PCs/Mira\|Mira]] like a baby, instinctively takes care of her, wipes her mouth and such.

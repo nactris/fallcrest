@@ -20,7 +20,9 @@ $$
 
 They have a dwarven overwritten marks seared into his insides - those are visible only when yonder transforms. (Those are old. Diablist had hand in jailbreaking)
 
-Demonist's symbol appeared from his insides when he
+Demonist's symbol appeared from his insides when he almost died.
+
+ Settled with around 28 years ago.
 # Relationships
 *not much known*
 # Image
