@@ -11,10 +11,10 @@ Has 2 brothers, vicious ones.
 Will keep us to himself, likes a good battle. 
 Will get stronger, he is interested in Lucian (we told him, ship has sailed!) 
 Desparate to hear Raven Queen's song again. Cried once he heard it thanks to [[PCs/Gingersnap Myra\|Ginger]].
-Wanted to pledge himself to [[PCs/Gingersnap Myra\|Ginger]].
+Wanted to pledge himself to [[PCs/Gingersnap Myra\|Ginger]]. Instead we instructed him to find hobbies, he decided to right his lefts.
 
 OWES US A FAVOUR TO BE COLLECTED AT LATER DATE!
- 
+ (we gon adopt this mf)
 
 ## Images
 ![samminel.webp](/img/user/Media/samminel.webp)
