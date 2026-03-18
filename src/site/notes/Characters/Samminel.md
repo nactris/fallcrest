@@ -17,4 +17,5 @@ OWES US A FAVOUR TO BE COLLECTED AT LATER DATE!
  (we gon adopt this mf)
 
 ## Images
+
 ![samminel.webp](/img/user/Media/samminel.webp)

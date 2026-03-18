@@ -13,3 +13,4 @@ Helps "this one" (Diz Woone, a wizard)
 Thinks our party is a "great threat" and "extremely dangerous".
 
 They heading north, to the Anvil. 
+![bluehat15.png](/img/user/Media/bluehat15.png)

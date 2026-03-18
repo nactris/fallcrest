@@ -6,7 +6,8 @@
 - [[PCs/Gingersnap Myra\|Gingersnap Myra]] a dwarven necromancer
 - [[PCs/Zimrial\|Zimrial]] an elven bard
 - [[PCs/Yonder\|Yonder]] - warforged druid
-
+- 
+Placeholder party name "Metal Magpies"
 [[Curiosities/Height Chart\|Height]] comparison!
 Some funny [[Curiosities/Funnies & Quotes\|quotes]], [[Curiosities/Conspiracy theories\|conspiracy theories]] and [[Curiosities/Random Trivia\|random trivia]]!
 They also have their [[PCs/Additional Info/Party Horses\|horses]]!
