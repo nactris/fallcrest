@@ -9,7 +9,7 @@ Worships Raven Queen. A bit of religious fanatic.
 Has a shadow that can move on its own. Can disappear into that shadow too.
 Has 2 brothers, vicious ones. 
 Will keep us to himself, likes a good battle. 
-Will get stronger, he is interested in Lucian (we told him, ship has sailed!) 
+Will get stronger, he is interested in [[Characters/Lucian Grimhollow\|Lucian Grimhollow]] (we told him about Lucian, ship has sailed!) 
 Desparate to hear Raven Queen's song again. Cried once he heard it thanks to [[PCs/Gingersnap Myra\|Ginger]].
 Wanted to pledge himself to [[PCs/Gingersnap Myra\|Ginger]]. Instead we instructed him to find hobbies, he decided to right his lefts.
 
