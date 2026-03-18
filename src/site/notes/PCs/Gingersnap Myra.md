@@ -24,6 +24,18 @@ Hell has nonviolence [[Curiosities/Devilish Contract\|contract]] against Ginger.
 Extremely heavyweight drinker. Her "cup" is basically a small barrel.
 
 She has an adorable pink knitted hood.
+
+"Chicken Priestess" that lives in "[[Places/Yondersnap Homestead\|Chicken Temple]]".
+
+
+> [!NOTE] Amulet of the Raven Queen
+>**Recharge:** 16+
+>+1 to Arcane/Divine spells and attacks.
+>
+>Teleport to a nearby location you can see, and if the amulet fails to recharge, you can spend a recovery to regain this power.
+>   
+> **Quirk**: You prefer to remain mysterious.
+
 # Relationships
 Cares a lot about [[PCs/Nino Markelhay\|Nino Markelhay]], treats him kinda like son. (He is dead thou)
 So far treats [[PCs/Mira\|Mira]] like a baby, instinctively takes care of her, wipes her mouth and such.

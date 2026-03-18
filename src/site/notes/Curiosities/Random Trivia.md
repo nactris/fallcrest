@@ -11,6 +11,7 @@
   Guide came back in pieces. one. by. one.
   Libera did not.
 - The [[PCs/Yonder\|yonder's]] horns are NOT a tuning fork! (Mira will test that later...)
+- [[Characters/Samminel\|Samminel]] owes us a favour. (We spared his life :))
 ### Rumors
 - There is a maze underneath Thunderspire Peak. No one escaped it apparently. Vast treasures there apparently! (•̪ o •̪) - rumor
 - Big Ol' Wizard (Archmage) rigged the Orc Lords and Emperors duel (apparently, see crazed drunkard)

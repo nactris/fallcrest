@@ -61,7 +61,6 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > the roll, the rogue narrates how something they know or set up
 > before these events is now supplying a +3 bonus to the skill reroll.
 
-
 > [!note]- Scissor Strike
 > Melee attack ◆ **At-Will**
 > **Target:** One enemy
@@ -125,7 +124,6 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 
-
 > [!tip]- Glitchy Movements
 > You gain a +3 bonus to disengage checks. In addition, while you
 > are moving, if an enemy moves to intercept you, you can make a
@@ -179,15 +177,27 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 target.
 
 
+
+> [!error]- Sudden Phase Shift
+> **1/battle** ⬥ Interrupt action
+**Trigger:** A melee attack that targets AC hits you
+**Effect:** Reduce the damage from the attack by double your level.
+If you spend a point of Bravado, you take half damage from
+the attack, instead
+
+
 ### Feats
 
 > [!done]- Scisors are a Pair (Adventurer-tier)
 You can now wield two melee weapons and get the two-weapon
 fighting advantage described on page 314: hitting with your
 melee attacks on a natural 2.
-> Contents
 
 
+
+> [!done]- Raising Tempo (Adventurer-tier)
+When the escalation die is 2+, bump up
+your Rush Attack damage by two levels.
 ## Items
 
 

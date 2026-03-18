@@ -8,3 +8,5 @@ Kid, apprentice of [[Characters/Nimozaran the Green\|Nimozaran the Green]].
 Didn't pass the magic exam. 
 In deep awe of [[PCs/Gingersnap Myra\|Ginger's]] necromancy. Will probably try to learn magic from grandma.
 
+## Images
+![Tobolar.webp](/img/user/Media/Tobolar.webp)

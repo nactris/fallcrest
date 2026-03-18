@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/barton/"}
 ---
 
-Barton is in with bandits, [[Characters/Raven Roost\|Raven Roost]].
+Barton is in with bandits, [[Characters/Raven Roost\|Raven Roost]]. Apparently not quite, since he is nice to us.
 Owner of [[Places/Five League House\|Five League House]].
 Childhood friends with [[Characters/Lord Warden Aurelio Markelhay\|Lord Warden Aurelio Markelhay]]
 
