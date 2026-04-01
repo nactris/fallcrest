@@ -34,5 +34,14 @@ So the wizard found me again...
 [[PCs/Yonder\|Yonder]] is kinda scary but funny at the same time. DO NOT GET ON HIS BAD SIDE!
 [[PCs/Nino Markelhay\|Nino]]... Mira is not sure what to make of him... Mira is curious about him but also kinda creeped out. More curious tho, getting used to him as she finds more pieces of him in her hair.
 Has old "friend" [[Characters/Basten\|Basten]]. She does not like him that much, she treats him more like necessary evil. He got caught by the [[Elven noble\|Elven noble]] Mira stole from.
+
+
+
+
+
+ 
+
+
 # Image
 ![Mira.png](/img/user/Media/Mira.png)
+
