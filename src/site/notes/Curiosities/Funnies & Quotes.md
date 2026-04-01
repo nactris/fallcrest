@@ -30,3 +30,6 @@
 "There are many more enjoyments in this life. I must introduce you - have you ever seen a chicken?" - [[PCs/Yonder\|Yonder]]
 
 ---
+"Grow up!" - [[PCs/Yonder\|7'6'' robot]] to [[Characters/Diz Woone\|5'5 wizard]].
+
+---

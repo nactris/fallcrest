@@ -23,7 +23,12 @@ They have a dwarven overwritten marks seared into his insides - those are visibl
 Demonist's symbol appeared from his insides when he almost died.
 
  Settled with around 28 years ago.
+ Yonder reads [[PCs/Gingersnap Myra\|Gingers]] mail.
+
+Does rounds about once per day to check on the wildlife.
+"Be more like a chicken."
 # Relationships
-*not much known*
+Good friend of [[PCs/Gingersnap Myra\|Gingersnap Myra]]. Great deal of trust towards her. Treats her like a best friend.
+
 # Image
 ![Yonder.png](/img/user/Media/Yonder.png)

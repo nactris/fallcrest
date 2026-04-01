@@ -11,6 +11,7 @@ Smacks people with a newspaper edition announcing his death. (XD)
 Has a [[Characters/Ghost boy\|ghost friend]] bluish hue, blond hair, young.
 Uses fake name "Guy" when needed.
 # Relationships
-Tbd
+Cares deeply for [[PCs/Gingersnap Myra\|Gingersnap Myra]]. 
+Friends with [[Characters/Ghost boy\|Ghost boy]].
 # Image
 ![Nino.png](/img/user/Media/Nino.png)

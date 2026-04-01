@@ -5,10 +5,12 @@
 #PC 
 Can perform - plays instruments a bit.
 Can dance and sing well, better than she plays.
-Flirty. VERY.
 Can sing dwarven songs, but does not speak dwarven (kinda like k-pop lol)
+She can speak draconic
+Flirty. VERY.
 Likes to pick up "exotic" things.
 Overperforms her accent.
+
 Performed at [[Places/Silver Unicorn\|Silver Unicorn]].
 If it has a pulse she will flirt with it. If it doesn't she may try.
 
@@ -31,7 +33,6 @@ Does not eat meat (fish is fair game).
 
 Zim is popular! 
 She was recognized by [[Characters/Regiful Handsome\|Regiful Handsome]].
-
 Zimmy is well defined (not buff per se).
 # Relationships
 [[PCs/Yonder\|Yonder]] is the creepiest guy in a friend group, and [[PCs/Nino Markelhay\|Nino]] is the second creepiest.

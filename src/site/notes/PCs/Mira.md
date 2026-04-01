@@ -25,6 +25,9 @@ She likes to be cozy. (sleeps on 5 of her favorite blankets back home)
 Mira has enormous appetite and is a fast eater. You can throw as much food as you want at her, and she will likely make it vanish. (Ate a whole ass cauldron )
 
 For her abilities to work properly Mira needs to see. Her abilities require her to see weird angles and navigate them. Kind of similar to navigating with stars without seeing stars.
+
+Was followed around by a robot bird. Archmage (or similar) made. Already broke few of those. (Has a decoration made from polished cogs in her [[Places/Mira's Treehouse\|room]])
+So the wizard found me again...
 # Relationships
 [[PCs/Gingersnap Myra\|Granny]] is nice (scary when angry tho). Mira visits from time to time but does not want to impose herself on her or inconvenience her or Yonder. 
 [[PCs/Zimrial\|Zims]] is a frien. She sings nice and keeps folks at pub distracted! A partner in crime?
