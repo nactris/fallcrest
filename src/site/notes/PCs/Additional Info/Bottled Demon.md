@@ -15,4 +15,4 @@ Apparently summoned by [[Crusaider\|Crusaider's]] people. They were supposed to 
 
 # Images
 
-![[bottledDemdn.png\|bottledDemdn.png]]
+![bottledDemon.png](/img/user/Media/bottledDemon.png)
