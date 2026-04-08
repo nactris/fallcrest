@@ -4,7 +4,10 @@
 
 All [[PCs/Yonder\|Yonder's]] chickens are named, Yonder can tell them apart.
 All of them live on [[Places/Yondersnap Homestead\|Yondersnap Homestead]].
-Zacchary and Hadalgo (+3 others) died in demonic ritual.
+Hidalgo and Zachary RIP (+3 others) died in demonic ritual.
 
 Remaining chickens are named:
-- \[TBD]\
+- Weatherby
+
+ ###### \[this article is a stub, help by expanding it]
+ 
