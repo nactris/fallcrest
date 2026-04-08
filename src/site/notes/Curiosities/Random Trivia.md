@@ -27,4 +27,5 @@
 - Drakkenhall is recruiting "medical volunteers", preying on desperate veterans.
 - Well to do vessels heading from Glitterhaegen to New Port seek protection. 
 - The Crown has called a great hunt in the Stalking Trees to cull demonically influenced wildlife.
+- !!!!!! FALLCREST IS SCHEDULED TO BE TURNED INTO A HELLHOLE!!!!! - info from [[Characters/Lucian Grimhollow\|Lucian Grimhollow]]. He said he will be an enemy, but in truth he is friend.
 

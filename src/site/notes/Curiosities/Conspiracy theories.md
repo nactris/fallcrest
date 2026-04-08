@@ -23,3 +23,5 @@ Zim has a magical ring that makes you explode after you mention diabolist.
 On the festival she let go a lantern with two elven-scrip reading "Mom and Dad".
 
 [[PCs/Mira\|Mira]] let go a lantern with a needle drawing.
+
+During a fight with possessed [[Characters/Diz Woone\|Diz Woone]], [[PCs/Yonder\|Yonder]] and [[PCs/Mira\|Mira]] managed to catch [[PCs/Additional Info/Bottled Demon\|Demonic Mist]] in a bunch of jars. 

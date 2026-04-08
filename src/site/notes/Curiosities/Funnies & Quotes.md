@@ -19,11 +19,11 @@
 "You might be mortally grey enough for me to help you" - Ginger
 
 ---
-"Is your friend a wizard?" - [[Characters/Bluehat15\|Bluehat15]]
+"Is your friend a wizard?" - [[Characters/bLuEhAt15\|bLuEhAt15]]
 "No, she is a dwarf" - [[PCs/Yonder\|Yonder]]
 
 ---
-"Quick ask me a question!" - [[Characters/Bluehat15\|Bluehat15]]
+"Quick ask me a question!" - [[Characters/bLuEhAt15\|bLuEhAt15]]
 "no." - [[PCs/Yonder\|Yonder]]
 
 ---

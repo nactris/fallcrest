@@ -24,7 +24,11 @@ Had a job: to make [[Characters/Lord Warden Aurelio Markelhay\|Lord Warden]] mis
 
 [[PCs/Gingersnap Myra\|Ginger]] did a small ritual to "call" his soul.  Only one soul, so it didn't work. 
 
-Black fist of crusader works closely with... couldn't hear.
+Black fist of crusader works closely with... <I couldn't hear>
+
+"Cryptic sonovabitch" - [[PCs/Zimrial\|Zimrial]]
+He is friend! Wants to assist when time comes. Told something nice. That Fallcrest is to be turned into a hellhole. :(
+
 
 ## Image
 ![Creepy Stoned Knight Imp Killer.png](/img/user/Media/Creepy%20Stoned%20Knight%20Imp%20Killer.png)
