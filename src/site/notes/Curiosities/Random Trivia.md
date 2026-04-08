@@ -14,7 +14,7 @@
 - [[Characters/Samminel\|Samminel]] owes us a favour. (We spared his life :))
 -  Since we beat up the [[Characters/Raven Roost\|Raven Roost]], the guards decided to crush them thoroughly. Raven roost since disappeared somewhere.
 - Kobolds found new big guy. They cannot meet chickens. 
-- Archmage is after [[PCs/Mira\|Mira]] again. ()
+- Archmage is after [[PCs/Mira\|Mira]] again. (suicidal spy drone birds found)
 ### Rumors
 - There is a maze underneath Thunderspire Peak. No one escaped it apparently. Vast treasures there apparently! (•̪ o •̪) - rumor
 - Big Ol' Wizard (Archmage) rigged the Orc Lords and Emperors duel (apparently, see crazed drunkard)
