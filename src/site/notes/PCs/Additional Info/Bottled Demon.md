@@ -12,3 +12,6 @@ Apparently summoned by [[Crusaider\|Crusaider's]] people. They were supposed to 
 
 
 "Look! *shake shake shake* A demonic snowglobe!" - Mira
+# Images
+
+![bottledDemon.png](/img/user/Media/bottledDemon.png)
