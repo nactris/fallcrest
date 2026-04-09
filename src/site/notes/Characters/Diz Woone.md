@@ -10,7 +10,7 @@ Considers himself a scholar.
 
 Got his ass possessed by some demon. That's what you get from skimping on mental barriers.
 Tends to perform demonic rituals with [[PCs/Yonder\|Yonder's]] chickens.
-Tried to get yonder posessed too.
+Tried to get Yonder posessed too.
 # Images
 
 ![dizwoone.png](/img/user/Media/dizwoone.png)

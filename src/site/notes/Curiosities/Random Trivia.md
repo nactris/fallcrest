@@ -5,21 +5,21 @@
 
 - Tarrot reading is for 5 gold. Might be bullshit
 - Silver Unicorn has a basement for rent.
-- Dwarves and Drow like it spicy and by spicy i mean food.
-- Constructs made by the creator of yonder are suspected of assault against dwarven king.
-- Libera was looking a guide to hell marsh, did not leave there. 
+- Dwarves and Drow like it spicy, I mean food.
+- Constructs made by the creator of Yonder are suspected of assault against dwarven king.
+- [[Libera\|Libera]] was looking a guide to hell marsh, did not leave there. 
   Guide came back in pieces. one. by. one.
   Libera did not.
-- The [[PCs/Yonder\|yonder's]] horns are NOT a tuning fork! (Mira will test that later...)
+- The [[PCs/Yonder\|Yonder's]] horns are NOT a tuning fork! (Mira will test that later...)
 - [[Characters/Samminel\|Samminel]] owes us a favour. (We spared his life :))
--  Since we beat up the [[Characters/Raven Roost\|Raven Roost]], the guards decided to crush them thoroughly. Raven roost since disappeared somewhere.
+-  Since we beat up the [[Characters/Raven Roost\|Raven Roost]], the guards decided to crush them thoroughly. Raven Roost since disappeared somewhere.
 - Kobolds found new big guy. They cannot meet chickens. 
 - Archmage is after [[PCs/Mira\|Mira]] again. (suicidal spy drone birds found)
 ### Rumors
 - There is a maze underneath Thunderspire Peak. No one escaped it apparently. Vast treasures there apparently! (•̪ o •̪) - rumor
 - Big Ol' Wizard (Archmage) rigged the Orc Lords and Emperors duel (apparently, see crazed drunkard)
-- Shadow people replace normal people in Winterhaven, [[Characters/Raven Roost\|Raven Roost]] are supposed to have some shadow people - source: crazed drunkard 
-  Turned out to be shadar kai brothers from Raven Roots
+- ~~Shadow people replace normal people in Winterhaven, [[Characters/Raven Roost\|Raven Roost]] are supposed to have some shadow people - source: crazed drunkard~~
+  Turned out to be shadar kai brothers from Raven Roots.
 -  "The Emperor and the Priestest are about to marry" - slightly drunk old Lady.
 ### Hooks
 
@@ -29,3 +29,17 @@
 - The Crown has called a great hunt in the Stalking Trees to cull demonically influenced wildlife.
 - !!!!!! FALLCREST IS SCHEDULED TO BE TURNED INTO A HELLHOLE!!!!! - info from [[Characters/Lucian Grimhollow\|Lucian Grimhollow]]. He said he will be an enemy, but in truth he is friend.
 
+## Session names:
+
+1. -
+2. -
+3. Be Bold. Be Kobold.
+4. Dead Man's Party
+5. ?
+6. The King's Road
+7. You're Dead. We Killed You!
+8. A Stew to Die for
+9. It’s Night Time
+10. The House that Heaven Built
+11. True Love And A Free Life Of Free Will
+12. Kill Six Billion Demons
