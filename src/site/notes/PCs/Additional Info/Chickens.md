@@ -8,6 +8,9 @@ Hidalgo and Zachary RIP (+3 others) died in demonic ritual.
 
 Remaining chickens are named:
 - Weatherby
+- Pebbles
+- Macarena
+- Gabagool
 
  ###### \[this article is a stub, help by expanding it]
  
