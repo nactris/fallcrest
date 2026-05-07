@@ -4,8 +4,10 @@
 
 #home
 Normal farm, human-sized, they have vegetables, use them to feed/tame wild animals in forest ???
-[[Characters/Ghost Child\|A ghost]] comes there from time to time.
+[[Characters/Fallcrest/Ghost Child\|A ghost]] comes there from time to time.
+Located to the west of [[Places/Fallcrest\|Fallcrest]].
 
+The [[PCs/Additional Info/Bottled Demon\|Bottled Demon]] is currently there.
 ## Chickens
 All [[PCs/Yonder\|Yonder's]] chickens are named, Yonder can tell them apart.
 All of them live on [[Places/Yondersnap Homestead\|Yondersnap Homestead]].

@@ -33,3 +33,9 @@
 "Grow up!" - [[PCs/Yonder\|7'6'' robot]] to [[Characters/Diz Woone\|5'5 wizard]].
 
 ---
+"I'm turning into an owl" - [[PCs/Yonder\|Yonder]]
+"Who?" - [[PCs/Gingersnap Myra\|Ginger]]
+
+---
+ "we have deez nuts in our chicken coop" - [[PCs/Yonder\|Yonder]] speaking [[Characters/Diz Woone\|Diz Woone]]
+ 

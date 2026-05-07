@@ -20,7 +20,7 @@ Supposed to die a violent death if he reveals too much.
 Looses parts of himself each time he dies. Regains vitality tho.
 Says he owns ppl who kill him. A tradition of his.
 Has a sister by the name of Angel Cline. Small village between new port and Santa Corra. (could not catch all)
-Had a job: to make [[Characters/Lord Warden Aurelio Markelhay\|Lord Warden]] miserable.
+Had a job: to make [[Characters/Fallcrest/Lord Warden Aurelio Markelhay\|Lord Warden]] miserable.
 
 [[PCs/Gingersnap Myra\|Ginger]] did a small ritual to "call" his soul.  Only one soul, so it didn't work. 
 

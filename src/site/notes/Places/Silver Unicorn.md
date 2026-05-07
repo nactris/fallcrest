@@ -3,5 +3,5 @@
 ---
 
 #tavern
-Has a best stage, up and coming place.
+Has a best stage, up and coming place. [[PCs/Zimrial\|Zimrial]] performs here often. 
 Rental place available underneath.

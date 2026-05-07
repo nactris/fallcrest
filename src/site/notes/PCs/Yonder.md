@@ -12,7 +12,7 @@ Previously a dwarven battle robot, jailbroken.
 Mossy looking robot with plant growth over them.
 They have a animal fur coat. (some predator) does not really get cold but wears the coat to appease [[PCs/Gingersnap Myra\|Ginger]]. Yonder is very big and bulky. They have horns and claws. Serious looking face. Kind of looks like a beetle.
 
-(MY DUDE HESS RUDEEE XDDDDD, HE DID MIDDLE FINGER TO [[Characters/Sergant Murgeddin\|Sergant Murgeddin]])
+(MY DUDE HESS RUDEEE XDDDDD, HE DID MIDDLE FINGER TO [[Characters/Fallcrest/Sergant Murgeddin\|Sergant Murgeddin]])
 Yonder can transform into a bear, or different animals depending on mood and situation.
 $$
 PRIMAL \space\space VIOLENCE\space!!!!!!!!!! 
