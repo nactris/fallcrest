@@ -41,5 +41,8 @@ Cares a lot about [[PCs/Nino Markelhay\|Nino Markelhay]], treats him kinda like 
 So far treats [[PCs/Mira\|Mira]] like a baby, instinctively takes care of her, wipes her mouth and such.
 *not much more is known*
 # Image
-![Gingersnap.png](/img/user/Media/Gingersnap.png)
+
+![Ginger.png](/img/user/Media/PC/Ginger.png)
+
+![Gingersnap_old.png](/img/user/Media/PC/Gingersnap_old.png)
 

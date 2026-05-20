@@ -32,4 +32,7 @@ Good friend of [[PCs/Gingersnap Myra\|Gingersnap Myra]]. Great deal of trust tow
 Friends with [[PCs/Zimrial\|Zim]].
 
 # Image
-![Yonder.png](/img/user/Media/Yonder.png)
+
+![Yonder.png](/img/user/Media/PC/Yonder.png)
+
+![Yonder_old.png](/img/user/Media/PC/Yonder_old.png)

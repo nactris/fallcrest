@@ -45,7 +45,7 @@ Stole a silver rosary from [[Characters/Fallcrest/High Priest Ressilmae Starligh
 Has old "friend" [[Characters/Basten\|Basten]]. She does not like him that much, she treats him more like necessary evil. He got caught by the [[Elven noble\|Elven noble]] Mira stole from.
 [[Characters/Fallcrest/Little Tobolar 'Toblerone or Toby' Quickfoot\|Toby]] is that one kinda weird nerd friend to her, she likes to laugh at him when he messes up.
 
-Absolutely hates [[Characters/Fallcrest/Accursed Demon Caster\| this stupid demon]].
+Absolutely hates [[Characters/Fallcrest/Accursed Demon Caster\|this stupid demon]].
 
 
 
@@ -57,5 +57,7 @@ Absolutely hates [[Characters/Fallcrest/Accursed Demon Caster\| this stupid demo
 
 
 # Image
-![Mira.png](/img/user/Media/Mira.png)
+![Mira.png](/img/user/Media/PC/Mira.png)
+
+![Mira_old.png](/img/user/Media/PC/Mira_old.png)
 

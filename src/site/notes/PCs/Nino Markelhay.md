@@ -14,4 +14,8 @@ Uses fake name "Guy" when needed.
 Cares deeply for [[PCs/Gingersnap Myra\|Gingersnap Myra]]. 
 Friends with [[Characters/Fallcrest/Ghost Child\|Ghost Child]].
 # Image
-![Nino.png](/img/user/Media/Nino.png)
+
+
+![Nino.png](/img/user/Media/PC/Nino.png)
+
+![Nino_old.png](/img/user/Media/PC/Nino_old.png)

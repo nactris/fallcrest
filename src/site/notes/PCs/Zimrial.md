@@ -42,4 +42,7 @@ Later was gifted [[PCs/Additional Info/Sacrated Rusted Nail (Broomnail)\| a rust
 [[PCs/Yonder\|Yonder]] is the creepiest guy in a friend group, and [[PCs/Nino Markelhay\|Nino]] is the second creepiest.
 *not much more is known*
 # Image
-![Zimrial.png](/img/user/Media/Zimrial.png)
+
+![Zimmy.png](/img/user/Media/PC/Zimmy.png)
+
+![Zimrial_old.png](/img/user/Media/PC/Zimrial_old.png)
