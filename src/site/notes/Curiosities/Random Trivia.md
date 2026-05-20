@@ -29,11 +29,11 @@
 - The Crown has called a great hunt in the Stalking Trees to cull demonically influenced wildlife.
 - !!!!!! FALLCREST IS SCHEDULED TO BE TURNED INTO A HELLHOLE!!!!! - info from [[Characters/Lucian Grimhollow\|Lucian Grimhollow]]. He said he will be an enemy, but in truth he is friend.
 - Mira's former [[Characters/Basten\|informer]] is in trouble in axis.
-
+- [[Characters/Eliphas\|Eliphas]] invited us to visit him in [[Shadow Port\|Shadow Port]]. Intends to polish up [[PCs/Yonder\|Yonder's]] runes.
 ## Session names:
 
-1. -
-2. -
+1.  -none-
+2.  -none-
 3. Be Bold. Be Kobold.
 4. Dead Man's Party
 5. ?
