@@ -10,6 +10,8 @@ Good friends with [[PCs/Gingersnap Myra\|Gingersnap Myra]] and [[PCs/Yonder\|Yon
 After the whole awkward trying to murder us thing made [[PCs/Yonder\|Yonder's]] sword spew fire.
 [[PCs/Mira\|Mira]] likes the guy. He gave her true name of the demon she hates.
 
+Currently heading to [[Shadow Port\|Shadow Port]]. Promised to polish up Yonder's runes when we visit him.
+
 
 
 
