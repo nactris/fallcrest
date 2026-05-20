@@ -10,6 +10,8 @@ Smacks people with a newspaper edition announcing his death. (XD)
 5'7'' in height.
 Has a [[Characters/Fallcrest/Ghost Child\|ghost friend]] bluish hue, blond hair, young.
 Uses fake name "Guy" when needed.
+
+When using stuff like wisdom we decided he has +4 wisdom.
 # Relationships
 Cares deeply for [[PCs/Gingersnap Myra\|Gingersnap Myra]]. 
 Friends with [[Characters/Fallcrest/Ghost Child\|Ghost Child]].

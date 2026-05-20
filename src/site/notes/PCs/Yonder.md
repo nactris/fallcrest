@@ -27,6 +27,12 @@ Demonist's symbol appeared from his insides when he almost died.
 
 Does rounds about once per day to check on the wildlife.
 "Be more like a chicken."
+
+# Special Items
+
+Flaming sword, activated by speaking "Ignis Ferra".
+
+
 # Relationships
 Good friend of [[PCs/Gingersnap Myra\|Gingersnap Myra]]. Great deal of trust towards her. Treats her like a best friend. (or maybe old marriage even)
 Friends with [[PCs/Zimrial\|Zim]].

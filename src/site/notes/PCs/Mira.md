@@ -33,6 +33,8 @@ While she thinks all is fair in love and war, there are things that she will abs
 If one of her friends is used as hostage there will be hell to pay. 
 Mira is relentless when hunting the target of her ire and will not let go until her revenge is enacted.
 (if she takes revenge, its mostly for self-satisfaction not for pious things like sense of justice)
+
+
 ## Special Items
 Carries a small portion of [[PCs/Additional Info/Bottled Demon\| the bottled demon]]. 
 Stole a silver rosary from [[Characters/Fallcrest/High Priest Ressilmae Starlight\|High Priest's office]].
@@ -46,6 +48,7 @@ Has old "friend" [[Characters/Basten\|Basten]]. She does not like him that much,
 [[Characters/Fallcrest/Little Tobolar 'Toblerone or Toby' Quickfoot\|Toby]] is that one kinda weird nerd friend to her, she likes to laugh at him when he messes up.
 
 Absolutely hates [[Characters/Fallcrest/Accursed Demon Caster\|this stupid demon]].
+We got his true name! yay! we can summon him and beat him to death! yay!
 
 
 
