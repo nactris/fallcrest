@@ -3,6 +3,7 @@
 ---
 
 #PC
+
 Scruffy looking elven kid, around 21. Cheeky, smug and overly self-confident. 
 Captivated by everything glittery.
 Gotta eat to live, gotta steal to eat.
@@ -16,6 +17,7 @@ Somehow she "attracts" bone pieces from Nino, kinda in a supernatural way - ever
 As she looks closely, her ears perk up (kinda like bunny, cute)
 From time to time she gets a supernatural "guidance" or "hint" on how to achieve a goal.
 Other times she just acts on impulse, its about 50-50. So the team has to trust its the hint this time...
+At [[Places/The Gallantry of Britobart\|The Gallantry of Britobart]] she introduced herself as Mira Rosalis. She looked real anxious when she introduced herself by full name. Wonder what that means....
 
 Mira is with others for around a year. At the time she showed up in Fallcrest she stole a wallet from [[PCs/Gingersnap Myra\|Ginger]] only to discover its full of candy instead of money. She ate the candy but felt bad and returned the wallet afterwards. That's how Mira and Ginger met.
 
