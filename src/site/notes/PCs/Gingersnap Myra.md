@@ -26,6 +26,7 @@ Extremely heavyweight drinker. Her "cup" is basically a small barrel.
 She has an adorable pink knitted hood.
 
 "Chicken Priestess" that lives in "[[Places/Yondersnap Homestead\|Chicken Temple]]".
+Apparently she can summon ghosts of chickens.
 
 
 > [!NOTE] Amulet of the Raven Queen
@@ -35,7 +36,7 @@ She has an adorable pink knitted hood.
 >Teleport to a nearby location you can see, and if the amulet fails to recharge, you can spend a recovery to regain this power.
 >   
 > **Quirk**: You prefer to remain mysterious.
-
+> **Item:** A hairclip, slightly glows when in use.
 # Relationships
 Cares a lot about [[PCs/Nino Markelhay\|Nino Markelhay]], treats him kinda like son. (He is dead thou)
 So far treats [[PCs/Mira\|Mira]] like a baby, instinctively takes care of her, wipes her mouth and such.

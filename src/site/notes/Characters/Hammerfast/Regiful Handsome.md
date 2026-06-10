@@ -13,4 +13,4 @@ Had some dirt on guy in Drakenhall.
 Has red hair.
 # Images
 
-![Regiful.png](/img/user/Media/Regiful.png)
+![regiful.png](/img/user/Media/regiful.png)

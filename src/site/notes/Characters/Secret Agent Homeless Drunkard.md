@@ -3,7 +3,7 @@
 ---
 
 #npc
-Interrupted [[PCs/Zimrial\|Zim's]] dance lesson. 
+Interrupted [[PCs/Zimrial\|Zim's]] dance lesson. Nickname Ezekial.
 
 "Why is de muzic ztoped~, Youou ruuiined it." *almost faceplants to the ground*
 Not drunk, nor dirty. Neither homeless nor drunkard.

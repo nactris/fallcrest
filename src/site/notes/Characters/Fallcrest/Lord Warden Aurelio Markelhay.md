@@ -16,3 +16,6 @@ Friends with [[Characters/Hammerfast/Barton\|Barton]]. Recommended the beef stew
 Found out that [[Characters/Lucian Grimhollow\|Lucian Grimhollow]] is most likely not dead. Sent us to Hammerfast. 
 
 Has a brother.
+
+# Images
+![lordwarden.png](/img/user/Media/lordwarden.png)

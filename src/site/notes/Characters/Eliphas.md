@@ -18,4 +18,4 @@ Currently heading to [[Shadow Port\|Shadow Port]]. Promised to polish up Yonder'
 
 # Image
 
-![Pasted image 20260520225108.png](/img/user/Pasted%20image%2020260520225108.png)
+![eliphas.png](/img/user/Media/eliphas.png)

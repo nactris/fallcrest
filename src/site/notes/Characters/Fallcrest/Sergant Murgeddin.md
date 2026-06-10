@@ -9,3 +9,7 @@ War veteran.
 Serves [[Characters/Fallcrest/Lord Warden Aurelio Markelhay\|Lord Warden Aurelio Markelhay]].
 Was left to die by the forgeborn unit that was supposed to come as reinforcement. They left without telling anyone where they went.
 He apologized to Yonder.
+
+# Image
+
+![sergmurgeddon.png](/img/user/Media/sergmurgeddon.png)

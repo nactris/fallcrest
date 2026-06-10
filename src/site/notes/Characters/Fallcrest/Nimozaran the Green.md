@@ -7,5 +7,8 @@ an elderly wizard who was once apprenticed to the last of the old guild mages. O
 
 Called by townsfolk "Nimo". When he is not suffering from dementia he absolutely SHREDS with his magic. When Falcrest was attacked by demons he went all Doom over there. Guided fireballs, purifying fireworks shadow summoning, etc. Basically fought whole town almost on his own.
 
+He has a demon in his mind that works both as a cancer and cure for his dementia. 
+Lives in a [[Places/Nimozoran's Tower\|wizard's tower]].
+
 ## Images
-![Nimozoran.webp](/img/user/Media/Nimozoran.webp)
+![nimothegreen.webp](/img/user/Media/nimothegreen.webp)

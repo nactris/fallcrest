@@ -19,11 +19,11 @@
 "You might be mortally grey enough for me to help you" - Ginger
 
 ---
-"Is your friend a wizard?" - [[Characters/bLuEhAt15\|bLuEhAt15]]
+"Is your friend a wizard?" - [[Characters/Fallcrest/bLuEhAt15\|bLuEhAt15]]
 "No, she is a dwarf" - [[PCs/Yonder\|Yonder]]
 
 ---
-"Quick ask me a question!" - [[Characters/bLuEhAt15\|bLuEhAt15]]
+"Quick ask me a question!" - [[Characters/Fallcrest/bLuEhAt15\|bLuEhAt15]]
 "no." - [[PCs/Yonder\|Yonder]]
 
 ---
@@ -38,4 +38,10 @@
 
 ---
  "we have deez nuts in our chicken coop" - [[PCs/Yonder\|Yonder]] speaking [[Characters/Diz Woone\|Diz Woone]]
- 
+
+---
+"Power of magic comes from PRESENTATION" - [[PCs/Zimrial\|Zimrial]] aiding [[Characters/Fallcrest/Little Tobolar 'Toblerone or Toby' Quickfoot\|Tobolar]] with magic.
+"Any girl will tell you, you need to be firing where you are pointing" - Zim 5 seconds later
+
+---
+"I hate it, keep going" - [[PCs/Gingersnap Myra\|Ginger's]] Player. 

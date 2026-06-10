@@ -8,4 +8,4 @@ Small but cosy. Well insulated and covered from floor to ceiling in various trin
 
 # Image for vibes
 
-![Mira's Room.png](/img/user/Media/Mira's%20Room.png)
+![miraroom.png](/img/user/Media/miraroom.png)

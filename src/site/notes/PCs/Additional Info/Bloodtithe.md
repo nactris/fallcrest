@@ -15,4 +15,4 @@
 "I will slice all who stand in your path... do you accept?"
 ## Image
 
-![Bloodtithe.png](/img/user/Media/Bloodtithe.png)
+![bloodtithe.png](/img/user/Media/bloodtithe.png)

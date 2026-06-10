@@ -21,3 +21,5 @@ Friends with [[Characters/Fallcrest/Ghost Child\|Ghost Child]].
 ![Nino.png](/img/user/Media/PC/Nino.png)
 
 ![Nino_old.png](/img/user/Media/PC/Nino_old.png)
+
+![nimo_alive.png](/img/user/Media/PC/nimo_alive.png)

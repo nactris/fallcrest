@@ -11,4 +11,4 @@ Supernatural ability to read his customer tastes.
 Grew up in Fallcrest. 
 
 ### Image
-![Barton.png](/img/user/Media/Barton.png)
+![barton.png](/img/user/Media/barton.png)

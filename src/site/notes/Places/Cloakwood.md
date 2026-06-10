@@ -5,4 +5,4 @@
 #forest
 Incredibly dense, small forest. Perpetual fog.
 
-![Cloakwoods.png](/img/user/Media/Cloakwoods.png)
+![cloakwoods.png](/img/user/Media/cloakwoods.png)
