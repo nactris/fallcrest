@@ -77,3 +77,16 @@ People were not cheerful, they were terrified, and king was greedy and cruel.
 
 After that the hallway led to the throne room where the king and Britobart were waiting.
 King is tied and Britobart does not accept discussion. Let the blades speak.
+
+We wrote the partial ending:
+> [!NOTE] Partial Ending part 1
+*Pick the most honest minister, one that holds kingdom in high regard. Fairies granted you magic, you will know if one has ill will. He will take care of the kingdom until new King is chosen. While you have plenty o virtue and bravery, one does not succeed alone. Gather comrades...*
+
+The quill stills, we get paralyzed we cannot continue writing.
+
+rest should be: 
+> [!NOTE] Partial Ending part 2
+.*..ones whom you trust. Ones who will aid you with their wit and knowledge, their luck and cunning, then leave for a journey. An adventure to find a person suitable to be a ruler. It will be task perilous and harsh, you will meet many obstacles. But shall you succeed, kingdom will be saved!*
+
+The ending cleared and we forgot the fact that we wrote it. 
+Zim had this nasty feeling about it. As if something malevolent was watching.

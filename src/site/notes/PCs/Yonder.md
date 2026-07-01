@@ -28,10 +28,15 @@ Demonist's symbol appeared from his insides when he almost died.
 Does rounds about once per day to check on the wildlife.
 "Be more like a chicken."
 
+Yonder burrowed an old piece of his armor - insignia in a cave. He blocked it with a bigass boulder.
+They could not move it again. An old bear helped him move it.
+(they barely moved it lol, nat1 with +14 bonus)
+They used it as catalyst to summon [[Characters/Fallcrest/Xylvath-Khor’gathoth\|this guy again.]] Twisted with abyssal power it was changed into a helm that protects mind as opposed to controlling it. 
+
 # Special Items
 
 Flaming sword, activated by speaking "Ignis Ferra".
-
+Protective helm plate, twisted with abyssal power.
 
 # Relationships
 Good friend of [[PCs/Gingersnap Myra\|Gingersnap Myra]]. Great deal of trust towards her. Treats her like a best friend. (or maybe old marriage even)

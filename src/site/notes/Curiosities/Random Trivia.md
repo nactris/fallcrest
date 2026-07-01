@@ -3,6 +3,7 @@
 ---
 
 
+
 - Tarrot reading is for 5 gold. Might be bullshit
 - Silver Unicorn has a basement for rent.
 - Dwarves and Drow like it spicy, I mean food.
@@ -46,3 +47,6 @@
 12. Kill Six Billion Demons
 13. Demon Cleaner(s)
 14. Dead Souls
+15. The Headmaster Ritual
+16. Gallantry of Britobart
+17. Fairy Tale Ending (feat. Demons)
