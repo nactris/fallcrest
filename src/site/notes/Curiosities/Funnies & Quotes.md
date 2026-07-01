@@ -40,7 +40,7 @@
  "we have deez nuts in our chicken coop" - [[PCs/Yonder\|Yonder]] speaking [[Characters/Diz Woone\|Diz Woone]]
 
 ---
-"Power of magic comes from PRESENTATION" - [[PCs/Zimrial\|Zimrial]] aiding [[Characters/Fallcrest/Little Tobolar 'Toblerone or Toby' Quickfoot\|Tobolar]] with magic.
+"Power of magic comes from PRESENTATION" - [[PCs/Zimriel Kachaçe-Queensward\|Zimriel Kachaçe-Queensward]] aiding [[Characters/Fallcrest/Little Tobolar 'Toblerone or Toby' Quickfoot\|Tobolar]] with magic.
 "Any girl will tell you, you need to be firing where you are pointing" - Zim 5 seconds later
 
 ---

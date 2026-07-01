@@ -3,7 +3,7 @@
 ---
 
 
-[[PCs/Yonder\|Yonder]] has some symbols on his inside tied to Diabolist from time where he was jailbroken. [[PCs/Zimrial\|Zimrial]] has a ring with similar symbols. Something about being freed from dwarven control?
+[[PCs/Yonder\|Yonder]] has some symbols on his inside tied to Diabolist from time where he was jailbroken. [[PCs/Zimriel Kachaçe-Queensward\|Zimriel Kachaçe-Queensward]] has a ring with similar symbols. Something about being freed from dwarven control?
 Symbols saved his life, clear connection to diabolist.
 WHAT PRICE DID HE PAY FOR DIABILISTS HELP?! <- mira is a nosy f***
 HAS A DWARVEN ANCESTOR INSIDE?!!!!
@@ -19,9 +19,9 @@ Coincidence?! I THINK NOT!
 ~~[[Characters/Lucian Grimhollow\|Lucian Grimhollow]] was doing something with kobolds. Probably told them about the ritual. Probably told them about dragon hide.~~ Confirmed. He was the cause of the kobold problems.
 
 
-[[PCs/Zimrial\|Zim]] is a secret agent. Who the hell is [[Characters/Thamson, Thomson or something like.\|Thamson]]? Thomson? He dissapeared btw. 
+[[PCs/Zimriel Kachaçe-Queensward\|Zim]] is a secret agent. Who the hell is [[Characters/Thamson, Thomson or something like.\|Thamson]]? Thomson? He dissapeared btw. 
 Zim has a magical ring that makes you explode after you mention diabolist. Only went off once tho.
 On the festival she let go a lantern with two elven-scrip reading "Mom and Dad".
 
-[[PCs/Mira\|Mira]] let go a lantern with a needle drawing on the festival. Who was it addressed to?
+[[PCs/Mira Rosalis\|Mira Rosalis]] let go a lantern with a needle drawing on the festival. Who was it addressed to?
 

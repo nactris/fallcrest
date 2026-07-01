@@ -26,7 +26,7 @@ Had a job: to make [[Characters/Fallcrest/Lord Warden Aurelio Markelhay\|Lord Wa
 
 Black fist of crusader works closely with... <I couldn't hear>
 
-"Cryptic sonovabitch" - [[PCs/Zimrial\|Zimrial]]
+"Cryptic sonovabitch" - [[PCs/Zimriel Kachaçe-Queensward\|Zimriel Kachaçe-Queensward]]
 He is friend! Wants to assist when time comes. Told something nice. That Fallcrest is to be turned into a hellhole. :(
 
 

@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/player-characters/","tags":["gardenEntry"]}
 ---
 
-- [[PCs/Mira\|Mira]] an elven rogue
+- [[PCs/Mira Rosalis\|Mira Rosalis]] an elven rogue
 - [[PCs/Gingersnap Myra\|Gingersnap Myra]] a dwarven necromancer
-- [[PCs/Zimrial\|Zimrial]] an elven bard
+- [[PCs/Zimriel Kachaçe-Queensward\|Zimriel Kachaçe-Queensward]] an elven bard
 - [[PCs/Yonder\|Yonder]] - forgeborn druid
 
 Placeholder party name "Metal Magpies"

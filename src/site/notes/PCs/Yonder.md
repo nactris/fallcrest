@@ -40,7 +40,7 @@ Protective helm plate, twisted with abyssal power.
 
 # Relationships
 Good friend of [[PCs/Gingersnap Myra\|Gingersnap Myra]]. Great deal of trust towards her. Treats her like a best friend. (or maybe old marriage even)
-Friends with [[PCs/Zimrial\|Zim]].
+Friends with [[PCs/Zimriel Kachaçe-Queensward\|Zim]].
 
 # Image
 

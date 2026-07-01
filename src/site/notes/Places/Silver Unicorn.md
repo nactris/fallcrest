@@ -3,5 +3,5 @@
 ---
 
 #tavern
-Has a best stage, up and coming place. [[PCs/Zimrial\|Zimrial]] performs here often. 
+Has a best stage, up and coming place. [[PCs/Zimriel Kachaçe-Queensward\|Zimriel Kachaçe-Queensward]] performs here often. 
 Rental place available underneath.

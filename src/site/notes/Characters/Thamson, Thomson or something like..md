@@ -3,5 +3,5 @@
 ---
 
 #npc
-[[PCs/Zimrial\|Zimrial's]] handler? 
+[[PCs/Zimriel Kachaçe-Queensward\|Zimrial's]] handler? 
 Missing.

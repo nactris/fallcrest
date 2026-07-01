@@ -7,7 +7,7 @@
 Gets cold easily wears warm clothes, has very long hair, organized uniform, comfortable and braided. Constantly smells like ginger.
 Lives together with [[PCs/Yonder\|Yonder]] on a [[Places/Yondersnap Homestead\|farm]].
 Talks to dead people. ☠
-Knows [[PCs/Mira\|Mira]].
+Knows [[PCs/Mira Rosalis\|Mira Rosalis]].
 
 As she casts spells she gets "older" and weaker. Looks like she is draining herself.
 
@@ -39,7 +39,7 @@ Apparently she can summon ghosts of chickens.
 > **Item:** A hairclip, slightly glows when in use.
 # Relationships
 Cares a lot about [[PCs/Nino Markelhay\|Nino Markelhay]], treats him kinda like son. (He is dead thou)
-So far treats [[PCs/Mira\|Mira]] like a baby, instinctively takes care of her, wipes her mouth and such.
+So far treats [[PCs/Mira Rosalis\|Mira Rosalis]] like a baby, instinctively takes care of her, wipes her mouth and such.
 *not much more is known*
 # Image
 

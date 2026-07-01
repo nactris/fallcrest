@@ -3,6 +3,6 @@
 ---
 
 
-**Socks**: [[PCs/Zimrial\|Zim's]] horse. Its a brown horse with white "socks". The horse is incredibly stoic one, and a comfortable ride.
+**Socks**: [[PCs/Zimriel Kachaçe-Queensward\|Zim's]] horse. Its a brown horse with white "socks". The horse is incredibly stoic one, and a comfortable ride.
 
-**Shadow**: [[PCs/Mira\|Mira's]] horse. Deep black, bit on the aggressive side. Took liking to Mira quickly.
+**Shadow**: [[PCs/Mira Rosalis\|Mira's]] horse. Deep black, bit on the aggressive side. Took liking to Mira quickly.

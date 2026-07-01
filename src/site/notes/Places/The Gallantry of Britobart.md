@@ -65,7 +65,7 @@ We are led by a knight deeper into the castle. The people seem to know us by dif
 4. Vallorie the Fox (Mira) 
 5. Morhana the Scholar of Death (Ginger)
 
-We step into a corridor, [[PCs/Mira\|Mira]] finds a crack in the wall and pulls it apart, entering the library.
+We step into a corridor, [[PCs/Mira Rosalis\|Mira Rosalis]] finds a crack in the wall and pulls it apart, entering the library.
 It stretches infinitely fractally warping and folding onto itself. There were the books there, that changed gravity, and [[PCs/Gingersnap Myra\|Ginger]] found a special one.
 Special book was able to play sound from what was written into it. The sound was what the writer expected. 
 
