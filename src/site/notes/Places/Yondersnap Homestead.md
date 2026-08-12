@@ -7,7 +7,11 @@ Normal farm, human-sized, they have vegetables, use them to feed/tame wild anima
 [[Characters/Fallcrest/Ghost Child\|A ghost]] comes there from time to time.
 Located to the west of [[Places/Fallcrest\|Fallcrest]].
 
-The [[PCs/Additional Info/Bottled Demon\|Bottled Demon]] is currently there.
+The most [[PCs/Additional Info/Bottled Demon\|Bottled Demon]] is currently there.
+
+Deep underneath the farmstead there are ghastly voices, silently trying to call to Gingersnap. They sound like they are muffled, behind a wall.
+
+
 ## Chickens
 All [[PCs/Yonder\|Yonder's]] chickens are named, Yonder can tell them apart.
 All of them live on [[Places/Yondersnap Homestead\|Yondersnap Homestead]].

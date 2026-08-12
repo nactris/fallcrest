@@ -10,7 +10,7 @@ Serves [[Characters/Fallcrest/Lord Warden Aurelio Markelhay\|Lord Warden Aurelio
 Was left to die by the forgeborn unit that was supposed to come as reinforcement. They left without telling anyone where they went.
 He apologized to Yonder.
 
-He is 600+ years old. He works with [[Characters/Fallcrest/Iselore\|Iselore]], who tells him which creatures to hunt. 
+He is 654 years old. He works with [[Characters/Fallcrest/Iselore\|Iselore]], who tells him which creatures to hunt. 
 He got bitten by werewolf but got cured. 
 His brother fights with sea monsters.
 

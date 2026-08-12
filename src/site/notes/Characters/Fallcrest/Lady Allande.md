@@ -12,7 +12,8 @@ Her catatonic state is officially by overexposure to arcane energies.
 This is blatantly untrue, since a wizard of her power cannot be affected by this.
 [[Characters/Fallcrest/Nimozaran the Green\|Nimozaran the Green]] is way weaker by his own account and said it would take the [[Archmage\|Archmage]] to bring him to similar state.
 
-Capable of raising ire of pretty much everyone.
+Capable of raising ire of pretty much everyone. 
+Capable of creating huge zone when using magic.
 # Images
 
 ![allande.png](/img/user/Media/allande.png)

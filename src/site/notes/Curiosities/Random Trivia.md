@@ -3,7 +3,7 @@
 ---
 
 
-- Campaign started at 
+- Campaign started at 16 January 2026 at 20:00 CEST
 - Tarrot reading is for 5 gold. Might be bullshit
 - Silver Unicorn has a basement for rent.
 - Dwarves and Drow like it spicy, I mean food.
@@ -17,11 +17,12 @@
 - Kobolds found new big guy. They cannot meet chickens. 
 - Archmage is after [[PCs/Mira Rosalis\|Mira]] again. (suicidal spy drone birds found, trails lead to [[Horizon\|Horizon]])
 - Mira is an enemy of fate. [[Characters/Fallcrest/Iselore\|Iselore]] told her she is targeted by it.
+- Yonder released 3 warhorses from Crusaiders.
 ### Rumors
 - There is a maze underneath Thunderspire Peak. No one escaped it apparently. Vast treasures there apparently! (•̪ o •̪) - rumor
 - Big Ol' Wizard (Archmage) rigged the Orc Lords and Emperors duel (apparently, see crazed drunkard)
 - ~~Shadow people replace normal people in Winterhaven, [[Characters/Hammerfast/Raven Roost\|Raven Roost]] are supposed to have some shadow people - source: crazed drunkard~~
-  Turned out to be shadar kai brothers from Raven Roots.
+  Turned out to be shadar kai brothers from Raven Roost.
 -  "The Emperor and the Priestest are about to marry" - slightly drunk old Lady.
 ### Hooks
 
@@ -38,15 +39,15 @@
 
 ## Session names:
 
-1.  -none-
-2.  -none-
-3. Be Bold. Be Kobold.
-4. Dead Man's Party
-5. ?
-6. The King's Road
-7. You're Dead. We Killed You!
-8. A Stew to Die for
-9. It’s Night Time
+1.    -none-
+2.    -none-
+3.   Be Bold. Be Kobold.
+4.   Dead Man's Party
+5.   ?
+6.   The King's Road
+7.   You're Dead. We Killed You!
+8.   A Stew to Die for
+9.   It’s Night Time
 10. The House that Heaven Built
 11. True Love And A Free Life Of Free Will
 12. Kill Six Billion Demons
