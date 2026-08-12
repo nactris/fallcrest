@@ -3,7 +3,7 @@
 ---
 
 
-
+- Campaign started at 
 - Tarrot reading is for 5 gold. Might be bullshit
 - Silver Unicorn has a basement for rent.
 - Dwarves and Drow like it spicy, I mean food.
@@ -15,7 +15,8 @@
 - [[Characters/Hammerfast/Samminel\|Samminel]] owes us a favour. (We spared his life :))
 -  Since we beat up the [[Characters/Hammerfast/Raven Roost\|Raven Roost]], the guards decided to crush them thoroughly. Raven Roost since disappeared somewhere.
 - Kobolds found new big guy. They cannot meet chickens. 
-- Archmage is after [[PCs/Mira Rosalis\|Mira]] again. (suicidal spy drone birds found)
+- Archmage is after [[PCs/Mira Rosalis\|Mira]] again. (suicidal spy drone birds found, trails lead to [[Horizon\|Horizon]])
+- Mira is an enemy of fate. [[Characters/Fallcrest/Iselore\|Iselore]] told her she is targeted by it.
 ### Rumors
 - There is a maze underneath Thunderspire Peak. No one escaped it apparently. Vast treasures there apparently! (•̪ o •̪) - rumor
 - Big Ol' Wizard (Archmage) rigged the Orc Lords and Emperors duel (apparently, see crazed drunkard)
@@ -32,6 +33,9 @@
 - Mira's former [[Characters/Basten\|informer]] is in trouble in axis.
 - [[Characters/Eliphas\|Eliphas]] invited us to visit him in [[Shadow Port\|Shadow Port]]. Intends to polish up [[PCs/Yonder\|Yonder's]] runes.
 - Person in Horizon keeps sending them birds, one of them 
+- [[Characters/Fallcrest/Lady Allande\|Lady Allande]] has her soul trapped in the Limbo. Mira's dimension hopping will help bring her back.
+- We got a cart filled with mix of melons and severed heads of [[Characters/Lucian Grimhollow\|Lucian Grimhollow]], around 30 of them.
+
 ## Session names:
 
 1.  -none-
@@ -51,3 +55,6 @@
 15. The Headmaster Ritual
 16. Gallantry of Britobart
 17. Fairy Tale Ending (feat. Demons)
+18. Wolf Like Me
+19. A Cartful of Melons
+20. A Cartful of "Melons"

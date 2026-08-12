@@ -18,6 +18,19 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > engaged with at the start of your turn if you hit. Decide whether
 > you are using Rush Attack before rolling an eligible attack.
 
+| 2nd  | +5 (2d4) damage   |
+| ---- | ----------------- |
+| 3rd  | +7 (2d6) damage   |
+| 4th  | +9 (2d8) damage   |
+| 5th  | +11 (2d10) damage |
+| 6th  | +14 (4d6) damage  |
+| 7th  | +18 (4d8) damage  |
+| 8th  | +22 damage        |
+| 9th  | +30 damage        |
+| 10th | +40 damage        |
+| 11th | +50 damage        |
+| 12th | +60 damage        |
+
 > [!note]- Bravado
 > There’s no limit to how many points of Bravado you can have,
 > but your Bravado resets to 0 when you take a quick rest or a full
@@ -32,18 +45,6 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > hitting with an opportunity attack won’t give you a point of
 > Bravado.)
 
-| 2nd  | +5 (2d4) damage   |
-| ---- | ----------------- |
-| 3rd  | +7 (2d6) damage   |
-| 4th  | +9 (2d8) damage   |
-| 5th  | +11 (2d10) damage |
-| 6th  | +14 (4d6) damage  |
-| 7th  | +18 (4d8) damage  |
-| 8th  | +22 damage        |
-| 9th  | +30 damage        |
-| 10th | +40 damage        |
-| 11th |  +50 damage       |
-| 12th | +60 damage        |
 > [!note]- Skulduggery
 > Depending on your character’s backstory, you might instead
 > phrase this feature as something related to Thievery.
@@ -86,6 +87,8 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 
 
 ### Talents 
+
+
 > [!tip]- Rift Diving
 > *You gain the rift diving at-will power*
 > As a quick action before you have used a standard action
@@ -118,10 +121,10 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > turn, and possibly your move action.
 
 
-
-> [!tip]- Impatient
-> Your crit range against staggered enemies expands by 2
-
+>[!tip]- Emergency Dimensional Severance
+> Once per battle, when you are hit by a nearby enemy, you can
+> force the enemy to reroll the attack with an attack penalty equal
+> to your highest mental ability modifier.
 
 
 > [!tip]- Glitchy Movements
@@ -134,19 +137,7 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > your real target; and don’t forget that magic boots will help your
 > disengage checks.)
 
-
-### Powers (1st level)
-
-> [!error]- Non-Euclidean Stab
-> *Same as basic ranged attack except...*
-> **Special**: You must use a small, bladed weapon or a hand
-> crossbow with this attack. (For you, those are both d6
-> weapons when used for a ranged attack.) If you spend a point
-> of Bravado before rolling your attack, you can add your Rush
-> Attack or Sneak Attack damage to the hit, even if the target
-> would not normally be eligible for that damage.
-> Target: One nearby enemy
-
+### Powers 
 
 
 > [!error]- Dance of Fractals 
@@ -170,12 +161,10 @@ Mira's fighting style heavily relies on her ability to phase into the subspace. 
 > **Miss**: Half damage.
 
 
-
 > [!error]- Snapback Slash
 > *Same as rogue basic melee attack except...*
 > **Hit:** Same basic attack damage, and you can pop free from the
 target.
-
 
 
 > [!error]- Sudden Phase Shift
@@ -186,18 +175,32 @@ If you spend a point of Bravado, you take half damage from
 the attack, instead
 
 
-### Feats
-
-> [!done]- Scisors are a Pair (Adventurer-tier)
-You can now wield two melee weapons and get the two-weapon
-fighting advantage described on page 314: hitting with your
-melee attacks on a natural 2.
-
+> [!error]- Bleeding Strike
+>*Same as rogue basic melee attack except . . .*
+>**1/battle** 
+**Target**: One enemy who is eligible to be damaged by your Sneak
+Attack or your Rush Attack
+**Natural even hit**: Same base damage as basic attack, and an
+additional 10 ongoing damage (5th: 20 ongoing damage; 8th: 40
+ongoing damage).
+**Natural odd hit**: Same base damage as basic attack, and half as
+much ongoing damage as the even hit.
 
 
 > [!done]- Raising Tempo (Adventurer-tier)
 When the escalation die is 2+, bump up
 your Rush Attack damage by two levels.
+
+> [!done]- Raising Tempo (Adventurer-tier)
+When the escalation die is 2+, bump up
+your Rush Attack damage by two levels.
+
+
+> [!done]- Universal Shift (Adventurer-tier)
+When the escalation die is 2+, bump up
+your Rush Attack damage by two levels.
+
+
 ## Items
 
 
@@ -207,3 +210,31 @@ your Rush Attack damage by two levels.
 > - When you take miss damage from an enemy’s attack, you can pop free from that enemy.
 >   
 > **Quirk**: Giggles unnervingly.
+
+> [!NOTE]- Feywind Cape
+> 
+> (move action – recharge 6+ after use)
+> 
+> Sprout fey wings and Fly in a colorful whirl, descending to the ground at the start of your next turn. If you fail the recharge roll, you lose a recovery (and your lunch!). If you succeed, you regain the power and can use it again before descending without the failure effect.
+> 
+> **Quirk:** A flair for the dramatic in battle.
+
+## Not taken: 
+
+
+> [!error]- Non-Euclidean Stab 
+ *Same as basic ranged attack except...* 
+ **Special**: You must use a small, bladed weapon or a hand
+ crossbow with this attack. (For you, those are both d6
+ weapons when used for a ranged attack.) If you spend a point
+ of Bravado before rolling your attack, you can add your Rush
+ Attack or Sneak Attack damage to the hit, even if the target
+ would not normally be eligible for that damage.
+ Target: One nearby enemy
+
+
+> [!tip]- Impatient
+> Your crit range against staggered enemies expands by 2
+
+
+
