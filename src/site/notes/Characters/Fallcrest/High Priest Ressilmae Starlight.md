@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/high-priest-ressilmae-starlight/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/high-priest-ressilmae-starlight/","tags":["npc","fallcrest"]}
 ---
 
 #npc 

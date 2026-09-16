@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/sergant-murgeddin/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/sergant-murgeddin/","tags":["npc","fallcrest"]}
 ---
 
-#npc 
 Sergmagedon.
 Looking for adventurers, brought [[PCs/Nino Markelhay\|Nino's]] and [[Characters/Fallcrest/Gaius\|Gaias']] corpses.
 War veteran.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/delsanra-finger-of-the-elf-queen/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/delsanra-finger-of-the-elf-queen/","tags":["npc"]}
 ---
 
 High elven lady. Probably some kind of reporter? 

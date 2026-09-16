@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/lady-allande/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/lady-allande/","tags":["npc","fallcrest"]}
 ---
 
-
-#npc 
 Lady of the house. 
 Wife of [[Characters/Fallcrest/Lord Warden Aurelio Markelhay\|Lord Warden]].
 Can teleport in a bluish flash if her name is spoken.
@@ -14,6 +12,7 @@ This is blatantly untrue, since a wizard of her power cannot be affected by this
 
 Capable of raising ire of pretty much everyone. 
 Capable of creating huge zone when using magic.
+Capable of maintaining huge [[Places/Demiplanes\|Demiplane]].
 # Images
 
 ![allande.png](/img/user/Media/allande.png)

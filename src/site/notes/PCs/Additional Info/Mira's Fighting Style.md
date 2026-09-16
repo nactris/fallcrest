@@ -201,24 +201,6 @@ When the escalation die is 2+, bump up
 your Rush Attack damage by two levels.
 
 
-## Items
-
-
-> [!NOTE] Silver Slippers
-> (1/battle for each): 
-> - When you pop free or disengage from a mook, one mook that you were engaged with takes damage equal to twice your level.
-> - When you take miss damage from an enemy’s attack, you can pop free from that enemy.
->   
-> **Quirk**: Giggles unnervingly.
-
-> [!NOTE]- Feywind Cape
-> 
-> (move action – recharge 6+ after use)
-> 
-> Sprout fey wings and Fly in a colorful whirl, descending to the ground at the start of your next turn. If you fail the recharge roll, you lose a recovery (and your lunch!). If you succeed, you regain the power and can use it again before descending without the failure effect.
-> 
-> **Quirk:** A flair for the dramatic in battle.
-
 ## Not taken: 
 
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/yonder/"}
+{"dg-publish":true,"permalink":"/p-cs/yonder/","tags":["pc"]}
 ---
 
-#PC
-Lives with [[PCs/Gingersnap Myra\|Gingersnap]] on a [[Places/Yondersnap Homestead\|farm]], it was originally Yonder's.
+
+Lives with [[PCs/Gingersnap Myra\|Gingersnap]] on a [[Places/Material Plane/Yondersnap Homestead\|farm]], it was originally Yonder's.
 Likes animal and also rats (probably).
 Can speak to animals.
 Likes giving scritches to animals!
@@ -35,8 +35,8 @@ They used it as catalyst to summon [[Characters/Fallcrest/Xylvath-Khor’gathoth
 
 # Special Items
 
-Flaming sword, activated by speaking "Ignis Ferra".
-Protective helm plate, twisted with abyssal power.
+[[Flaming Sword\|Flaming Sword]], activated by speaking "Ignis Ferra".
+[[PCs/Additional Info/Items/Corrupted Dwarven Control Panel\|Corrupted Dwarven Control Panel]], twisted with abyssal power.
 
 # Relationships
 Good friend of [[PCs/Gingersnap Myra\|Gingersnap Myra]]. Great deal of trust towards her. Treats her like a best friend. (or maybe old marriage even)

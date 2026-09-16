@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/gaius/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/gaius/","tags":["npc","fallcrest"]}
 ---
 
 #npc

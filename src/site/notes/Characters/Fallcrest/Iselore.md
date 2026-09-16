@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/iselore/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/iselore/","tags":["npc"]}
 ---
 
 Druidic mentor of [[PCs/Yonder\|Yonder]]. Usually acts through a familiar.

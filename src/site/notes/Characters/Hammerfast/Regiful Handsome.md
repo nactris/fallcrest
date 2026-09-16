@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/characters/hammerfast/regiful-handsome/"}
+{"dg-publish":true,"permalink":"/characters/hammerfast/regiful-handsome/","tags":["npc"]}
 ---
-
-
 
 Reginald Handson actually. 
 Was commisioned to make a play, then paid twice (and intimidated) to burn all copies.

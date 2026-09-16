@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/little-tobolar-toblerone-or-toby-quickfoot/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/little-tobolar-toblerone-or-toby-quickfoot/","tags":["npc","fallcrest"]}
 ---
 
-#npc 
 Chickens are good targets, hates trees, they are huge, hates music it gets stuck in his head.
 Kid, apprentice of [[Characters/Fallcrest/Nimozaran the Green\|Nimozaran the Green]]. 
 Didn't pass the magic exam. 

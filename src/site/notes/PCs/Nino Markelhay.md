@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/nino-markelhay/"}
+{"dg-publish":true,"permalink":"/p-cs/nino-markelhay/","tags":["pc"]}
 ---
 
-#PC
+
 Dead men tell no tale. That's not the case with this one tho. Undead skeleton of [[PCs/Gingersnap Myra\|Gingersnap's]] friend?
 Died at around 18.
 Smacks people with a newspaper edition announcing his death. (XD)

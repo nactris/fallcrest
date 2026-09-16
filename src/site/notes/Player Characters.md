@@ -7,7 +7,7 @@
 - [[PCs/Zimriel Kachaçe-Queensward\|Zimriel Kachaçe-Queensward]] an elven bard
 - [[PCs/Yonder\|Yonder]] - forgeborn druid
 
-Placeholder party name "Metal Magpies"
+Party name "Metal Magpies"
 [[Curiosities/Height Chart\|Height]] comparison!
 Some funny [[Curiosities/Funnies & Quotes\|quotes]], [[Curiosities/Conspiracy theories\|conspiracy theories]] and [[Curiosities/Random Trivia\|random trivia]]!
 They also have their [[PCs/Additional Info/Party Horses\|horses]]!

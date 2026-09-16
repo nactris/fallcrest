@@ -30,12 +30,12 @@
 - Drakkenhall is recruiting "medical volunteers", preying on desperate veterans.
 - Well to do vessels heading from Glitterhaegen to New Port seek protection. 
 - The Crown has called a great hunt in the Stalking Trees to cull demonically influenced wildlife.
-- !!!!!! FALLCREST IS SCHEDULED TO BE TURNED INTO A HELLHOLE!!!!! - info from [[Characters/Lucian Grimhollow\|Lucian Grimhollow]]. He said he will be an enemy, but in truth he is friend.
-- Mira's former [[Characters/Basten\|informer]] is in trouble in axis.
-- [[Characters/Eliphas\|Eliphas]] invited us to visit him in [[Shadow Port\|Shadow Port]]. Intends to polish up [[PCs/Yonder\|Yonder's]] runes.
+- !!!!!! FALLCREST IS SCHEDULED TO BE TURNED INTO A HELLHOLE!!!!! - info from [[Characters/Fallcrest/Lucian Grimhollow\|Lucian Grimhollow]]. He said he will be an enemy, but in truth he is friend.
+- Mira's former [[Characters/Axis/Basten\|informer]] is in trouble in axis.
+- [[Characters/Shadow Port/Eliphas\|Eliphas]] invited us to visit him in [[Shadow Port\|Shadow Port]]. Intends to polish up [[PCs/Yonder\|Yonder's]] runes.
 - Person in Horizon keeps sending them birds, one of them 
 - [[Characters/Fallcrest/Lady Allande\|Lady Allande]] has her soul trapped in the Limbo. Mira's dimension hopping will help bring her back.
-- We got a cart filled with mix of melons and severed heads of [[Characters/Lucian Grimhollow\|Lucian Grimhollow]], around 30 of them.
+- We got a cart filled with mix of melons and severed heads of [[Characters/Fallcrest/Lucian Grimhollow\|Lucian Grimhollow]], around 30 of them.
 
 ## Session names:
 
@@ -59,3 +59,6 @@
 18. Wolf Like Me
 19. A Cartful of Melons
 20. A Cartful of "Melons"
+21. A Devilish Cube
+22. 1-800-SENDING
+23. Everyday is Exactly the Same

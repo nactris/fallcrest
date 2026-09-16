@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/kae-z-and-z-t/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/kae-z-and-z-t/","tags":["fallcrest","npc"]}
 ---
 
 
-
 Two [[Characters/Fallcrest/Kobolds\|kobolds]] "tamed" by [[PCs/Gingersnap Myra\|Ginger]]. Since she defeated other kobolds they view her as strong therefore impressive.
-Were promised more cookies, armed with pieces of [[Characters/Lucian Grimhollow\|old armor]].
+Were promised more cookies, armed with pieces of [[Characters/Fallcrest/Lucian Grimhollow\|old armor]].
 Confirmed that Lucius was dead. (fake news)
 They asked if Gineger has a hoard (possible gifts!?)
 

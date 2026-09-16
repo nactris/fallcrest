@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/diz-woone/"}
+{"dg-publish":true,"permalink":"/characters/diz-woone/","tags":["npc"]}
 ---
 
 Employer of [[Characters/Fallcrest/bLuEhAt15\|bLuEhAt15]]. A wizard.
@@ -12,7 +12,7 @@ Got his ass possessed by some demon. That's what you get from skimping on mental
 Tends to perform demonic rituals with [[PCs/Yonder\|Yonder's]] chickens.
 Tried to get Yonder possessed too.
 
-After all that he was chased out of [[Places/Fallcrest\|Fallcrest]] and Yonder intimidated them into not using constructs anymore. Also into paying interns. (he did not want to)
+After all that he was chased out of [[Places/Material Plane/Fallcrest\|Fallcrest]] and Yonder intimidated them into not using constructs anymore. Also into paying interns. (he did not want to)
 He also fears chickens now. 
 # Images
 

@@ -16,10 +16,10 @@ Ginger was touched by Raven Queen's song?
 Raven Queen's magic feels like cold fog in autumn, Myra's like warm wind in autumn.
 Coincidence?! I THINK NOT!
 
-~~[[Characters/Lucian Grimhollow\|Lucian Grimhollow]] was doing something with kobolds. Probably told them about the ritual. Probably told them about dragon hide.~~ Confirmed. He was the cause of the kobold problems.
+~~[[Characters/Fallcrest/Lucian Grimhollow\|Lucian Grimhollow]] was doing something with kobolds. Probably told them about the ritual. Probably told them about dragon hide.~~ Confirmed. He was the cause of the kobold problems.
 
 
-[[PCs/Zimriel Kachaçe-Queensward\|Zim]] is a secret agent. Who the hell is [[Characters/Thamson, Thomson or something like.\|Thamson]]? Thomson? He dissapeared btw. 
+[[PCs/Zimriel Kachaçe-Queensward\|Zim]] is a secret agent. Who the hell is [[Characters/Fallcrest/Thamson, Thomson or something like.\|Thamson]]? Thomson? He dissapeared btw. 
 Zim has a magical ring that makes you explode after you mention diabolist. Only went off once tho.
 On the festival she let go a lantern with two elven-scrip reading "Mom and Dad".
 

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/zimriel-kachace-queensward/"}
+{"dg-publish":true,"permalink":"/p-cs/zimriel-kachace-queensward/","tags":["pc"]}
 ---
 
 
-#PC 
 Can perform - plays instruments a bit.
 Can dance and sing well, better than she plays.
 Can sing dwarven songs, but does not speak dwarven (kinda like k-pop lol)
@@ -12,7 +11,7 @@ Flirty. VERY.
 Likes to pick up "exotic" things.
 Overperforms her accent.
 
-Performed at [[Places/Silver Unicorn\|Silver Unicorn]].
+Performed at [[Places/Material Plane/Silver Unicorn\|Silver Unicorn]].
 If it has a pulse she will flirt with it. If it doesn't she may try.
 
 Now afraid of bears! (Yonder is the creepiest party member now!)
@@ -25,7 +24,7 @@ She wants a grand piano, she will get a grand piano.
 She can cut someone open. Literally, one kobold bled to death. SHE WILL GET THE PIANO.
 PIANO IS ON FIRE T_T.  she can't get it now....
 
-She got a cursed scimitar from a [[Characters/Lucian Grimhollow\|creepy guy]].  Got cursed. Willingly. This is intelligent weapon called [[PCs/Additional Info/Bloodtithe\|Bloodtithe]].
+She got a cursed scimitar from a [[Characters/Fallcrest/Lucian Grimhollow\|creepy guy]].  Got cursed. Willingly. This is intelligent weapon called [[PCs/Additional Info/Items/Bloodtithe\|Bloodtithe]].
 
 Soft spot for kids, she is keeping the orphanage from time to time. She was teaching kids music. Helping [[Characters/Fallcrest/High Priest Ressilmae Starlight\|Ressilmae]] with kids in general.
 
@@ -37,8 +36,8 @@ She was recognized by [[Characters/Hammerfast/Regiful Handsome\|Regiful Handsome
 Zimmy is well defined (not buff per se).
 
 ## Special Items
-She took [[PCs/Additional Info/Bloodtithe\|Bloodtithe]] from [[Characters/Lucian Grimhollow\|Lucian's corpse]] the first time we defeated him.
-Later was gifted [[PCs/Additional Info/Sacrated Rusted Nail (Broomnail)\| a rusty nail]] when Lucian told her about demons roaming the streets.
+She took [[PCs/Additional Info/Items/Bloodtithe\|Bloodtithe]] from [[Characters/Fallcrest/Lucian Grimhollow\|Lucian's corpse]] the first time we defeated him.
+Later was gifted [[PCs/Additional Info/Items/Sacrated Rusted Nail (Broomnail)\| a rusty nail]] when Lucian told her about demons roaming the streets.
 # Relationships
 [[PCs/Yonder\|Yonder]] is the creepiest guy in a friend group, and [[PCs/Nino Markelhay\|Nino]] is the second creepiest.
 *not much more is known*

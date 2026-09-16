@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/glinda/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/glinda/","tags":["npc","fallcrest"]}
 ---
 
 Old, dead, loves books.

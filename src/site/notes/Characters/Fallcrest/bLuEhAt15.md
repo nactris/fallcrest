@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/b-lu-eh-at15/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/b-lu-eh-at15/","tags":["npc"]}
 ---
 
 
@@ -18,7 +18,7 @@ They headed north, to the Anvil.
 Stopped by Fallcrest to visit [[PCs/Yonder\|Yonder]].
 Got controlled by demonic being, forced to kill chickens and fight us. Got PTSD from that.
 
-Stayed in [[Places/Yondersnap Homestead\|Yondersnap Homestead]] after [[Characters/Diz Woone\|Diz Woone]] left.
+Stayed in [[Places/Material Plane/Yondersnap Homestead\|Yondersnap Homestead]] after [[Characters/Diz Woone\|Diz Woone]] left.
 Wants to do gardening now.
 
 ## Images

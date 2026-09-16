@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/gingersnap-myra/"}
+{"dg-publish":true,"permalink":"/p-cs/gingersnap-myra/","tags":["pc"]}
 ---
 
-#PC
+
 4 feet tall old dwarven lady. Has a undead friend [[PCs/Nino Markelhay\|Nino]]. 
 Gets cold easily wears warm clothes, has very long hair, organized uniform, comfortable and braided. Constantly smells like ginger.
-Lives together with [[PCs/Yonder\|Yonder]] on a [[Places/Yondersnap Homestead\|farm]].
+Lives together with [[PCs/Yonder\|Yonder]] on a [[Places/Material Plane/Yondersnap Homestead\|farm]].
 Talks to dead people. ☠
 Knows [[PCs/Mira Rosalis\|Mira Rosalis]].
 
@@ -25,7 +25,7 @@ Extremely heavyweight drinker. Her "cup" is basically a small barrel.
 
 She has an adorable pink knitted hood.
 
-"Chicken Priestess" that lives in "[[Places/Yondersnap Homestead\|Chicken Temple]]".
+"Chicken Priestess" that lives in "[[Places/Material Plane/Yondersnap Homestead\|Chicken Temple]]".
 Apparently she can summon ghosts of chickens.
 
 
@@ -41,6 +41,11 @@ Apparently she can summon ghosts of chickens.
 Cares a lot about [[PCs/Nino Markelhay\|Nino Markelhay]], treats him kinda like son. (He is dead thou)
 So far treats [[PCs/Mira Rosalis\|Mira Rosalis]] like a baby, instinctively takes care of her, wipes her mouth and such.
 *not much more is known*
+
+# Special Items
+
+She obtained [[PCs/Additional Info/Items/Amulet of the Raven Queen\|Amulet of the Raven Queen]] from [[Characters/Hammerfast/Samminel\|Samminel]] after he heard Raven Queens song in her magic. He cried and gave her the amulet.
+
 # Image
 
 ![Ginger.png](/img/user/Media/PC/Ginger.png)

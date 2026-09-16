@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fallcrest/ghost-child/"}
+{"dg-publish":true,"permalink":"/characters/fallcrest/ghost-child/","tags":["npc","fallcrest"]}
 ---
 
 #npc
@@ -11,7 +11,7 @@ He was always here, but he is lost, but he never left, but he is lost, but he ne
 He comes around sometimes. 
 Bit weird, he is sad. 
 Unusually, he is not obsessed over his death, more like he is amnesiac.
-He remembers different stuff from what was? Maybe there was different farm around [[Places/Yondersnap Homestead\|Ginger's Farm]]. 
+He remembers different stuff from what was? Maybe there was different farm around [[Places/Material Plane/Yondersnap Homestead\|Ginger's Farm]]. 
 
 Has ghost attacks, pretty scary.
 He dissipated in a fight, Nino was not worried about that.
