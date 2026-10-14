@@ -29,6 +29,7 @@ Black fist of crusader works closely with... <I couldn't hear>
 He is friend! Wants to assist when time comes. Told something nice. That Fallcrest is to be turned into a hellhole. :(
 
 After revealing that he was beheaded as an example for others approximately 32 times by [[Characters/Fallcrest/Commander Toll\|Commander Toll]] and his curse caused him to degrade into something of a mad brainless fighter.  Since most of his power came from his cunning he is much less dangerous now.
+Bro got lobotomized.
 
 ## Image
 ![lucian.png](/img/user/Media/lucian.png)

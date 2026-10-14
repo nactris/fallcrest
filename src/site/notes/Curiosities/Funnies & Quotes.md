@@ -45,3 +45,10 @@
 
 ---
 "I hate it, keep going" - [[PCs/Gingersnap Myra\|Ginger's]] Player. 
+
+---
+"Only way I can ship it is to far away country, never to be seen again" - [[PCs/Mira Rosalis\|Mira's]] Player about [[Characters/Fallcrest/Commander Toll\|Toll]] and certain tiefling.
+
+---
+
+

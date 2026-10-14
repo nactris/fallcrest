@@ -35,8 +35,8 @@ They used it as catalyst to summon [[Characters/Fallcrest/Xylvath-Khor’gathoth
 
 # Special Items
 
-[[Flaming Sword\|Flaming Sword]], activated by speaking "Ignis Ferra".
-[[PCs/Additional Info/Items/Corrupted Dwarven Control Panel\|Corrupted Dwarven Control Panel]], twisted with abyssal power.
+[[PCs/Additional Info/Items/Flaming Black Greatsword\|Flaming Black Greatsword]], activated by speaking "Ignis Ferra".
+[[PCs/Additional Info/Items/Helmplate of Sovreignty\|Helmplate of Sovreignty]], twisted with abyssal power.
 
 # Relationships
 Good friend of [[PCs/Gingersnap Myra\|Gingersnap Myra]]. Great deal of trust towards her. Treats her like a best friend. (or maybe old marriage even)

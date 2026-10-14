@@ -30,13 +30,18 @@
 - Drakkenhall is recruiting "medical volunteers", preying on desperate veterans.
 - Well to do vessels heading from Glitterhaegen to New Port seek protection. 
 - The Crown has called a great hunt in the Stalking Trees to cull demonically influenced wildlife.
-- !!!!!! FALLCREST IS SCHEDULED TO BE TURNED INTO A HELLHOLE!!!!! - info from [[Characters/Fallcrest/Lucian Grimhollow\|Lucian Grimhollow]]. He said he will be an enemy, but in truth he is friend.
-- Mira's former [[Characters/Axis/Basten\|informer]] is in trouble in axis.
+- Grimhollow]]. He said he will be an enemy, but in truth he is friend.
+- Mira's former [[Characters/Axis/That Bastard Basten\|informer]] is in trouble in axis.
 - [[Characters/Shadow Port/Eliphas\|Eliphas]] invited us to visit him in [[Shadow Port\|Shadow Port]]. Intends to polish up [[PCs/Yonder\|Yonder's]] runes.
-- Person in Horizon keeps sending them birds, one of them 
-- [[Characters/Fallcrest/Lady Allande\|Lady Allande]] has her soul trapped in the Limbo. Mira's dimension hopping will help bring her back.
-- We got a cart filled with mix of melons and severed heads of [[Characters/Fallcrest/Lucian Grimhollow\|Lucian Grimhollow]], around 30 of them.
-
+- Person in Horizon keeps sending them birds, one of them told us.
+~~- [[Characters/Fallcrest/Lady Allande\|Lady Allande]] has her soul trapped in the Limbo. Mira's dimension hopping will help bring her back.~~ Done! She should be up in few weeks.
+- ~~We got a cart filled with mix of melons and severed heads of [[Characters/Fallcrest/Lucian Grimhollow\|Lucian Grimhollow]], around 30 of them.~~ [[Characters/Fallcrest/Commander Toll\|Toll]] killed em, we keeping em close.
+~~- !!!!!! FALLCREST IS SCHEDULED TO BE TURNED INTO A HELLHOLE!!!!! - info from [[Characters/Fallcrest/Lucian Grimhollow\|Lucian]]~~
+Not anymore, we killed the [[Characters/Fallcrest/Commander Toll\|Dumbass behind it]]. 
+- Explore the island in the Midland Sea where Mira woke up. ([[Characters/Fallcrest/Nimozaran the Green\|Nimo]] said he will pay us to show him stuff there)
+- Go to the Hell Marsh to find where Zimmy's handler disappeared.
+- Get Ginger's hubby out of hell. 
+- Go to Santa Cora to visit The Priestess (Iconic magic under [[Places/Material Plane/Yondersnap Homestead\|Yondersnap Homestead]])
 ## Session names:
 
 1.    -none-

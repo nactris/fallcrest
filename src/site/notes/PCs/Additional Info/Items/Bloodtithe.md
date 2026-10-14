@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/p-cs/additional-info/items/bloodtithe/","tags":["item"]}
 ---
 
-Dark metal sword with demonic inscriptions. Rightfully taken from [[Characters/Fallcrest/Lucian Grimhollow\|Lucian Grimhollow]] by [[PCs/Zimriel Kachaçe-Queensward\|Zim]] after his defeat. (they both bet their weapons on winning). Extremely irky about [[Nathaniel\|Nathaniel]], almost killed him and was promised [[Characters/Fallcrest/Commander Toll\|Toll's]] heart instead.
+Dark metal sword with demonic inscriptions. Rightfully taken from [[Characters/Fallcrest/Lucian Grimhollow\|Lucian Grimhollow]] by [[PCs/Zimriel Kachaçe-Queensward\|Zim]] after his defeat. (they both bet their weapons on winning). Extremely irky about [[Characters/Fallcrest/Nathaniel\|Nathaniel]], almost killed him and was promised [[Characters/Fallcrest/Commander Toll\|Toll's]] heart instead.
 
 
 > [!error]- Bloodtithe

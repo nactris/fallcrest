@@ -37,7 +37,7 @@ Mira is relentless when hunting the target of her ire and will not let go until 
 
 
 ## Special Items
-Carries a small portion of [[PCs/Additional Info/Bottled Demon\| the bottled demon]]. 
+Carries a small portion of [[PCs/Additional Info/Items/Bottled Demon\| the bottled demon]]. 
 Stole a silver rosary from [[Characters/Fallcrest/High Priest Ressilmae Starlight\|High Priest's office]].
 [[PCs/Additional Info/Items/Silver Slippers\|Silver Slippers]]
 [[PCs/Additional Info/Items/Feywind Cape\|Feywind Cape]]
@@ -48,7 +48,7 @@ Stole a silver rosary from [[Characters/Fallcrest/High Priest Ressilmae Starligh
 [[PCs/Zimriel Kachaçe-Queensward\|Zims]] is a frien. She sings nice and keeps folks at pub distracted! A partner in crime?
 [[PCs/Yonder\|Yonder]] is kinda scary but funny at the same time. DO NOT GET ON HIS BAD SIDE!
 [[PCs/Nino Markelhay\|Nino]]… Mira is not sure what to make of him... Mira is curious about him but also kinda creeped out. More curious tho, getting used to him as she finds more pieces of him in her hair.
-Has old "friend" [[Characters/Axis/Basten\|Basten]]. She does not like him that much, she treats him more like necessary evil. He got caught by the [[Elven noble\|Elven noble]] Mira stole from.
+Has old "friend" [[Characters/Axis/That Bastard Basten\|That Bastard Basten]]. She does not like him that much, she treats him more like necessary evil. He got caught by the [[Elven noble\|Elven noble]] Mira stole from.
 [[Characters/Fallcrest/Little Tobolar 'Toblerone or Toby' Quickfoot\|Toby]] is that one kinda weird nerd friend to her, she likes to laugh at him when he messes up.
 
 Absolutely hates [[Characters/Fallcrest/Xylvath-Khor’gathoth\|this stupid demon]].

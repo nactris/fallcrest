@@ -10,7 +10,7 @@ Mira got his true name from [[Characters/Shadow Port/Eliphas\|Eliphas]]. We on h
 
 He was summoned using a demonic circle drawn with strawberry jam. In the middle an old cast iron basin with paper-mache ox skull was placed. 
 The catalysts were: 
-- [[PCs/Yonder\|Yonder's]] [[PCs/Additional Info/Items/Corrupted Dwarven Control Panel\|old dwarf army plate]] - a symbol of constraint.
+- [[PCs/Yonder\|Yonder's]] [[PCs/Additional Info/Items/Helmplate of Sovreignty\|old dwarf army plate]] - a symbol of constraint.
 - [[PCs/Mira Rosalis\|Mira's]] sewing toolkit - a symbol of endearment.
 - [[PCs/Zimriel Kachaçe-Queensward\|Zim's]] hymnal singing - a symbol of calm and soothing. 
 

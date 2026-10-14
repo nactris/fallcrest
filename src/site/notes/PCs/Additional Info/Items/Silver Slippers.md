@@ -6,6 +6,7 @@
 Stolen from one of [[Characters/Fallcrest/Kobolds\|Kobolds]] in abandoned mansion in [[Places/Material Plane/Cloakwood\|Cloakwood]]. 
 
 > [!Error] Silver Slippers
+> Disengage and Initiative +1
 > (1/battle for each): 
 > 
 > -  When you pop free or disengage from a mook, one mook that you were engaged with takes damage equal to twice your level.
